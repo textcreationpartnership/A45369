@@ -1,0 +1,1046 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the actions of the Inniskilling-men from their first taking up of arms in December, 1688, for the defence of the Protestant religion, and their lives and liberties / written by Andrew Hamilton ...</title>
+            <author>Hamilton, Andrew, d. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45369</idno>
+            <idno type="STC">Wing H476</idno>
+            <idno type="STC">ESTC R3872</idno>
+            <idno type="EEBO-CITATION">12018769</idno>
+            <idno type="OCLC">ocm 12018769</idno>
+            <idno type="VID">52589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 815:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the actions of the Inniskilling-men from their first taking up of arms in December, 1688, for the defence of the Protestant religion, and their lives and liberties / written by Andrew Hamilton ...</title>
+                  <author>Hamilton, Andrew, d. 1691.</author>
+               </titleStmt>
+               <extent>[2], ix, [1], 65, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>"Books lately printed for Richard Chiswel" at end.</note>
+                  <note>Half-title: The actions of the Inniskilling-men.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Church history --  17th century.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:52589:1"/>
+            <p>LICENS'D, <hi>January</hi> the 15th, 1689/90.</p>
+            <closer>
+               <signed>Ja. Vernon.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:52589:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF THE ACTIONS OF THE <hi>Inniskilling-Men,</hi> FROM Their Firſt Taking up of Arms in <hi>December,</hi> 1688. for the Defence of the Proteſtant Religion, and their Lives and Liberties.</p>
+            <p>Written by <hi>ANDREW HAMILTON,</hi> Rector of <hi>Kilskerrie,</hi> and one of the Prebends of the Dio<g ref="char:EOLhyphen"/>ceſs of <hi>Clogher,</hi> in the Kingdom of <hi>Ireland;</hi> an Eye-witneſs thereof, and Actor therein.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard; and are to be Sold by <hi>Richard Baldwin</hi> in the <hi>Old-Baily.</hi> MDCXC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52589:2"/>
+            <pb n="i" facs="tcp:52589:2"/>
+            <head>TO Their Moſt Excellent MAJESTIES, WILLIAM and MARY, KING and QUEEN Of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe Your Majeſties,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT which imbolden'd me to lay theſe Papers at Your Royal Feet, was in diſcharge of the Inſtructions I received from the Governour and Ga<g ref="char:EOLhyphen"/>riſon of <hi>Inniskilling,</hi> hum<g ref="char:EOLhyphen"/>bly to Preſent before Your Majeſties, together with their Addreſs, a true Ac<g ref="char:EOLhyphen"/>count of their Faithful Endeavours for the Support of the Proteſtant Intereſt, and of Your Majesties; together with the Reaſons and Grounds upon which they proceeded in this ſo extraordinary a Revolution; and the rather, becauſe <hi>Inniskilling</hi> made no De<g ref="char:EOLhyphen"/>claration
+<pb n="ii" facs="tcp:52589:3"/>
+upon their firſt taking up Arms, as moſt other parts of <hi>Ulſter</hi> have done.</p>
+            <p>And, witb Submiſſion, I think it moſt pertinent to plead before Your Majeſties the Difficulties we found in what had but the appearance of Diſloyalty to our Prince; for Your Majeſties will be ill ſerv'd by men who have not Loyalty in their Principles. They who pretend they forſook their King for you, out of a Deſire only of change, their pretence is immoral, and humours are inconſtant, their Flattery is but the Tribute of Baſe Souls, and of Traiterous Conſe<g ref="char:EOLhyphen"/>quence to <hi>Princes;</hi> againſt whom the Juſtice or Wiſdom of a <hi>Prince</hi> cannot ſecure him; for both theſe could not preſerve <hi>Moſes</hi> and <hi>David</hi> from the madneſs of the people.</p>
+            <p>
+               <hi>May it pleaſe Your Majeſties,</hi> We in <hi>Ireland</hi> were ill uſed, exceeding ill; we were diſarm'd and diſplac'd, after the moſt ſignal Services of our Fa<g ref="char:EOLhyphen"/>thers, and many of our ſelves, to the Crown; and the Arms put into the hands of the Murtherers, the bloody Murtherers of <hi>Forty one,</hi> and their Off<g ref="char:EOLhyphen"/>ſpring; of whom our County afforded the moſt re<g ref="char:EOLhyphen"/>markable, the <hi>Mac Guires,</hi> who were the firſt in that helliſh Conſpiracy, and inhuman in the execution of it. The chief of whom was thought worthy to be brought hither, and ſuffer the pains of his Rebellion in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> Your Majeſties will believe us, that not
+<pb n="iii" facs="tcp:52589:3"/>
+only the Off-ſpring, but ſome of the very Hands which committed thoſe Maſſacres, were arm'd by Authority at the ſame time that Protestants were thruſt out of the Army, on pretence that ſome one or other of their Relations had ingag'd with the Uſur<g ref="char:EOLhyphen"/>pers, though themſelves had ſerved the King to the utmoſt Extremities; and many were Caſhiered, againſt whom even that pretence could not be found, and who had bought their Places with the King's Li<g ref="char:EOLhyphen"/>cenſe, and laid out all they had upon it; till at laſt, <hi>being a Proteſtant,</hi> was given for the Reaſon: and we were diſcourag'd by all the Artifice of Jeſuit, or <hi>Iriſh,</hi> and even threatn'd another Maſſacre by many of their leſſer Politicians, yet could not all this remove us the leaſt ſtep from our Duty to the King.</p>
+            <p>But, with Your Majeſty's Patience, there was more than all this; We had Acts of our Parliament which did incapacitate theſe men from bearing either Arms or Offices; yet did we even faultily acknow<g ref="char:EOLhyphen"/>ledge, and ſubmit to their Authority, out of profound <hi>deference</hi> to the King, who had placed them over us, though apparently to our Ruine, and overthrow of our Religion. All our Biſhopricks and Livings that fell in the King's Gift, were kept vacant, and the Revenues given to the <hi>Popiſh</hi> Clergy. Their Biſhops kept publick Viſitations in the Vacant Dio<g ref="char:EOLhyphen"/>ceſſes,
+<pb n="iv" facs="tcp:52589:4"/>
+and aſſumed even the Title; one of whom was made Secretary of State, and ſigned himſelf by the name of his Biſhoprick in all his Warrants and Di<g ref="char:EOLhyphen"/>ſpatches, that none might plead ignorance of the King's Intentions towards us. And we were told by ſome in the higheſt place, That the King would fill no <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Vacancies in the Church; ſo that we ſaw great part of our Churches in their poſſeſſion, and nothing interpoſe, but the lives of a very few (and moſt of them) Old Men, to leave us not one <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> Biſhop in the Kingdom. And for our Civil Rights, our Judges, Juſtices of the Peace, Sheriffs, and even Constables, were for the most part made of <hi>Papiſts:</hi> and the Act of Settlement was then doom'd in every Coffee-houſe to the ſame Condemnation under which it has fallen ſince. And the Army being in<g ref="char:EOLhyphen"/>tirely in thoſe worst of <hi>Popiſh</hi> Hands, the most barbarous <hi>Iriſh,</hi> who had thrown off hu<g ref="char:EOLhyphen"/>manity it ſelf, our proſpect was all black and diſmal.</p>
+            <p>Then it was that You, Sir, appear'd, like the Sun, to diſpel thoſe miſts which had darken'd all our Sky. Your Declaration revived us from the very Grave, while it ſhew'd us a way only to ſtand by, and ſee the Salvation of the Lord; only not to hinder you to re<g ref="char:EOLhyphen"/>lieve us without hazard, or even Diſhonour to our King; No more being aſkt, than to let our Par<g ref="char:EOLhyphen"/>liaments
+<pb n="v" facs="tcp:52589:4"/>
+be free; and the Laws run in their Anci<g ref="char:EOLhyphen"/>ent Channel. To this generous Declaration, we gave full and abſolute Credence; and drank it in as thirſty Sands does the ſhowers of Heaven: And look'd upon You as no other than a Miracle; a <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> ſent immediately from God, to deliver us from <hi>Egyptian</hi> Servitude and Idolatry. And as a no leſs wonderful effect of this, that our King had been ſo perniciouſly Adviſed, as to Abdicate his Throne, Voluntarily to throw up his Government, Disband his Army, and Retire, ſome ſaid to a Monaſtry, ſome to <hi>Rome,</hi> and ſome Dead; as every man's Fancy led him, and which to believe we knew not; for at that Diſtance, we were abſo<g ref="char:EOLhyphen"/>lute Strangers to Court, and to any true Intelli<g ref="char:EOLhyphen"/>gence. At this very time, Lord <hi>Tyrconnel</hi> Ar<g ref="char:EOLhyphen"/>med the Rabble of the <hi>Iriſh</hi> Papists, to the Num<g ref="char:EOLhyphen"/>ber of Forty or Fifty Thouſand, and to live upon the Countrey without Pay; whence enſued miſerable Depredations, open Noon-day Robberies, and an in<g ref="char:EOLhyphen"/>evitable, and ſudden Ruine of the <hi>Brittiſh</hi> and Protestant Interest in <hi>Ireland.</hi> Having granted Commiſſions dated about the beginning of <hi>January</hi> laſt for theſe New Levies, he after upon Notice of the King's Deſertion the 10th of <hi>December,</hi> alter'd the dates of theſe Commiſſions to the firſt of <hi>December;</hi> to bear a ſhow as done while the
+<pb n="vi" facs="tcp:52589:5"/>
+King was in the Government, and conſequently that we ſhould believe it was by his Majeſties Orders.</p>
+            <p>And many of theſe New-rais'd men were ſo Tran<g ref="char:EOLhyphen"/>ſported with the Glorious proſpect they had before them, that they had not the Continence, no, not their Prieſts, to refrain telling us, That they were now our Maſters, and we muſt ſubmit to new Laws, ſuch as ſhould be their Pleaſure, and what we had deſerved in their Opinion.</p>
+            <p>Then it was we thought our ſelves no longer un<g ref="char:EOLhyphen"/>der obligation to be active in our own Destruction, to acknowledg Officers whom our Laws did inca<g ref="char:EOLhyphen"/>pacitate, and acting more violently than ever, in the open Contempt of our Laws, and viſibly to our Extirpation; and that in all reaſonable Preſumpti<g ref="char:EOLhyphen"/>on, even without Orders from the King, who being gone from us (for what Reaſons we neither knew at that diſtance, nor could examine) we did not think we ought to continue in aſſiſting to the breach of our Laws in any leſſer hands, whether of the Lord <hi>Tyr<g ref="char:EOLhyphen"/>connel,</hi> or of any other. And in this Cauſe only it was, that we first took Arms in defence of our Laws, againſt thoſe, who when the King was gone, would govern by Force, tho the Law ſaid they ſhould not be capable of any Employment; and when they declared they would act in contradiction to all the Laws in being; and went ſo far in it, as to lay us abſolutely
+<pb n="vii" facs="tcp:52589:5"/>
+in the mercy of another Maſſacre, with which ſome of them threatned us, and the moſt moderate of them did not tell us we were ſecure from it. But on the contrary, very many Intimations were ſent from Foſterers, and others among the <hi>Iriſh,</hi> to their Friends of the Proteſtants, to be gone, to ſend away their Effects, to ſave their Lives, for that a ſtorm was coming. They had Publick Maſſes through all the <hi>North,</hi> for the furthering of that which they called <hi>Inteneragh,</hi> that is, a Secret Intention. Our Hills were daily covered with Multitudes of them, Arming and Inliſting themſelves; and they were quarter'd in our Towns, and in Private Houſes. All of them were Armed, of all Sorts, Sexes, and Ages; the old Women, and young Children, provided them <hi>Skeans</hi> and <hi>Half-Pikes,</hi> for which they cut down our Woods before our Faces; and it was dif<g ref="char:EOLhyphen"/>ficult to get a Horſe ſhod in our Countrey; all Smiths being taken up in fitting this ſort of Armo<g ref="char:EOLhyphen"/>ry. Nor were their Circumſtances alter'd more than their Looks and Behaviour; and if we might believe themſelves, nothing wanted but the Signal to perfect what had been begun in <hi>Forty one;</hi> we were abſolutely in their Power, and we had but that moment to reſcue our ſelves.</p>
+            <p>Such Extremities might have excuſed great Ex<g ref="char:EOLhyphen"/>ceſſes; which I might very fully ſhow, were it not
+<pb n="viii" facs="tcp:52589:6"/>
+for ſwelling this Diſcourſe beyond its intended bounds, and therefore I forbear it.</p>
+            <p>And now it remains to ſhow how we became Sub<g ref="char:EOLhyphen"/>jects to Your Majeſties, without breach of our former Loyalty; or rather how the ſame Loyalty becomes now due to Your Majeſties; and we do even with bold<g ref="char:EOLhyphen"/>neſs hope, That the ſhewing how firm this our Loyalty held out through all the Temptations of the laſt Reign, will render it the more acceptabte to Your Majeſties. This then was the ſcheme of Af<g ref="char:EOLhyphen"/>fairs which our little Intelligence brought to us; That the Late King had, by Advice of the Jeſuits, quitted the Government on purpoſe to put us into Confuſion; and had then put himſelf into the hands of a bigotted Prince, Enemy to our Nation, and Per<g ref="char:EOLhyphen"/>ſecutor of our Religion; That upon his obſtinate De<g ref="char:EOLhyphen"/>ſertion and Abdication of the Government, the Lords Spiritual and Temporal, and Commons of <hi>England,</hi> Aſſembled, did unanimouſly place Your Majeſties upon the Vacant Throne. Thus we heard, and this we believ'd.</p>
+            <p>And what were we, that we ſhould take upon us, at our diſtance from Affairs, to underſtand them bet<g ref="char:EOLhyphen"/>ter than thoſe at the Helm, or to diſpute what no one in <hi>England,</hi> made the leaſt heſitation to admit?</p>
+            <p>And what could we embrace with more delight, than to ſee the Crown, <hi>Madam,</hi> upon Your Royal
+<pb n="ix" facs="tcp:52589:6"/>
+Head, the next <hi>undoubted</hi> Heir to him who had Abdicated it? Whoſe Virtues gave You as good a Title to the Election, as Your Blood to the Succeſ<g ref="char:EOLhyphen"/>ſion, in that Illuſtrious Line, which we Pray God may Reign over us till Time ſhall be no more.</p>
+            <p>And were not even our Wiſhes left behind, to be<g ref="char:EOLhyphen"/>hold all Your Glories doubled, in Your Conjunction with His Preſent Majeſty, born to Empire, and a Pattern to Future Fate.</p>
+            <p>It was this Fate, <hi>Great Sir, Great Madam,</hi> Theſe were the Steps by which we were raiſed beyond our own Contrivance, but with our ready Conſent, to become Your Subjects: And how we have acquitted our ſelves in that Glorious Relation we stand in to Your Majesties, is the buſineſs of that Account which I now begin, without ſtudying the Stile, or any other Ornament but Truth, which muſt be obſcur'd in any dreſs I could beſtow upon it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52589:7"/>
+            <pb n="1" facs="tcp:52589:7"/>
+            <head>THE ACTIONS OF THE INNISKILLING-MEN.</head>
+            <p>ABout the firſt Day of <hi>December,</hi> 1688. there came a Letter from Mr. Secretary <hi>Ellis,</hi> by the Lord <hi>Tyrconnel</hi>'s Order, to the Provoſt of <hi>Inniskilling,</hi> to provide Quarters for two Foot Companies; <hi>viz.</hi> Capt. <hi>Nugent</hi>'s and Capt. <hi>Shurloe</hi>'s Companies, that were ſent to Quarter in that Town; and about the ſame time a report was ſpread through the Countrey, That the <hi>Iriſh</hi> intended to Maſſacre all the <hi>Brittiſh;</hi> and to confirm the ſame, upon <hi>Friday</hi> the 7th of the ſame Month, there came to <hi>Inniskilling,</hi> and to moſt Gentlemen in the Country about, a Copy of a Letter from the County of <hi>Down,</hi> written to the Earl of <hi>Mount-Alexander,</hi> telling, That the Maſſacre was to be on the <hi>Sunday</hi> following, being the Ninth of <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1688.</p>
+            <p>This Letter had an incredible Operation on the Minds of all near <hi>Inniskilling,</hi> for many of them were yet alive, who had been Eye-witneſſes of the Barbarous Cruelties Committed on the Proteſtants, by the <hi>Iriſh</hi> Papiſts in the Rebellion of (41) without any Compaſſion, or diſtincti<g ref="char:EOLhyphen"/>on to Age or Sex. This Letter with the other to the Pro<g ref="char:EOLhyphen"/>voſt, to receive a Gariſon into the Town (which had not
+<pb n="2" facs="tcp:52589:8"/>
+had a Gariſon for a long time before in it) and having good Information from <hi>Dublin,</hi> that the Lord <hi>Tyrconnel</hi> had granted Commiſſions all over the Kingdom to put all Pa<g ref="char:EOLhyphen"/>piſts in Arms; and that any Papiſt that was able or could propoſe any way to maintain men for three Months, had got what Commiſſions they deſired; and to confirm the ſame, they ſaw the Natives that lived in the Countrey near them, gather in great numbers, and forming them<g ref="char:EOLhyphen"/>ſelves into Companies, and had ſome experienced Sol<g ref="char:EOLhyphen"/>diers ſent to ſeveral Parts of the County to exerciſe them. This made thoſe of <hi>Inniskilling</hi> apprehenſive that thoſe Preparations were all making for the intended Maſſa<g ref="char:EOLhyphen"/>cre; and knowing that <hi>Inniskilling</hi> was the only place of Conſequence upon <hi>Logh Earne,</hi> (all Proteſtants, and who held out the whole Rebellion of 41, with remarkable Cou<g ref="char:EOLhyphen"/>rage) and if the <hi>Iriſh</hi> were poſſeſſed of it, they had an open Paſſage from <hi>Connaught</hi> to <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> they therefore did unanimouſly reſolve not to admit the Two Foot Compa<g ref="char:EOLhyphen"/>nies to Quarter in the Town, but did immediately diſpatch Letters to all the Gentlemen in the Countrey near the Place, acquainting them with their Reſolution, and cra<g ref="char:EOLhyphen"/>ving their Advice and Aſſiſtance in that Juncture; for of themſelves they were not able to keep out the Two Foot Companies, there being but about Eighty Dwellers in the Town, and few or no Arms among them; but when their Meſſengers returned, tho ſome few gave Encouragement, yet the greater part did diſſwade them from the Enterprize <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s dangerous; the <hi>Iriſh</hi> being well provided of Arms, Am<g ref="char:EOLhyphen"/>munition, and all things neceſſary; whereas they had not <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Pounds of Powder in the Town, and not Twenty <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll fixed Fire-Arms: But the Towns-men were ſtill bent <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n their firſt Reſolution, at all hazards, not to receive the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ariſon; for then they did expoſe their Lives, as they ſaid, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Mercy of their barbarous and bloody principl'd <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies.</p>
+            <p>
+               <pb n="3" facs="tcp:52589:8"/>Upon <hi>Thurſday,</hi> the 13th. of <hi>December,</hi> News was brought to the Town, that the two Companies were on their March towards them, and upon <hi>Friday</hi> that they were come to <hi>Clowniſh,</hi> within eighteen miles of the Town; and then the Towns-men (thinking it full time to look to themſelves.) ſend again to all their Neighbours, praying them to come to their relief, promiſing that whilſt they ſtayed with them they ſhou'd have free-Quarter for Man and Horſe. Upon this, ſeveral of the Neighbourhood came into the Town, with their beſt Horſe and Arms, promiſing to ſtand by them in Defence of their Lives and the Proteſtant Religion, which they did believe, (by the preparations they heard were making by our Enemies,) wou'd be very ſoon inva<g ref="char:EOLhyphen"/>ded.</p>
+            <p>Upon <hi>Saturday,</hi> the 15th. of <hi>December,</hi> the two Foot-Com<g ref="char:EOLhyphen"/>panies came to <hi>Mac Guires</hi> Bridge, within eight ſhort miles of the Town, and upon <hi>Sunday</hi> by ten of the Clock, word was brought into Town that they were upon their march, and come to <hi>Liſmella</hi> a Village about four miles diſtant from <hi>Innskillen:</hi> At the time when the news of their ſo near ap<g ref="char:EOLhyphen"/>proach came, moſt of the men in the Town were gone to Church, but ſoon came out and went to their Arms, reſolving to meet the two Companies before they came near the Town, and being drawn out, they were about 200 Foot, and a hundred and fifty Horſe, and having conſulted what was fit to be done, they ſent ſome of their number before to perſwade them by fair means to return, and brought ſome Ale and Meat from the Town to treat them in caſe they did comply with their deſire. And at the ſame time <hi>Gustavus Hamilton,</hi> 
+               <abbr>Eſq</abbr> our preſent Governour, came with about a hundred Horſe within a mile of the Town, to ſupport the Towns-men if there ſhould be occaſion, for it was re<g ref="char:EOLhyphen"/>ported that the two Companies had brought with them two or three Horſe loads of ſpare Arms, to Arm a numerous Rabble of the Country-<hi>Iriſh</hi> that flocked to them from all
+<pb n="4" facs="tcp:52589:9"/>
+hands. But the <hi>Inniskillen</hi> Horſe advancing towards them under the Command of Captain <hi>Browning,</hi> and Lieutenant <hi>Chriſtopher Carleton,</hi> and the Foot under the Command of Cap<g ref="char:EOLhyphen"/>tain <hi>Molcome Cathcart,</hi> who came no ſooner in view of the two Companies, but they with the whole Rabble that was with them, turned their backs and fled without halting, in very great fear and diſorder, back that Night to <hi>Mac Guires</hi> Bridge, and their Officers being then at Dinner in a Gen<g ref="char:EOLhyphen"/>tlemans Houſe not far from them, hearing that <hi>Inniskillen</hi>-men were come out, left their Dinner (as was reported) before they had half done, and fled after their men in as great fear and diſorder as they had gone before. The next day they went to <hi>Cavan</hi> twenty four miles diſtant from <hi>Inniskillen</hi> where they ſtayed in great fear of the <hi>Inniskillen</hi>-men, till they received new Orders from the Lord <hi>Tyreconel</hi> to march to ſome other Quarters: And I muſt here take notice, that they did not ſhew their Potent to Quarter in the Town, nor once askt to be admitted into the place.</p>
+            <p>About the 18th. of <hi>December,</hi> the men of <hi>Inniskillen</hi> and thoſe that did adhere to them, ſeeing the Storm that threat<g ref="char:EOLhyphen"/>ned them grew ſtill more black, the <hi>Iriſh</hi> arming on all hands, and growing much more inſolent than uſual, thought it adviſeable to put themſelves in ſome poſture of Self-Defence, and at a full meeting unanimouſly made choice of <hi>Guſtavus Hamilton,</hi> 
+               <abbr>Eſq</abbr> to be their Governour, a Gentleman that was a Juſtice of the Peace in the County of <hi>Fermanagh,</hi> of which <hi>Inniskillen</hi> is the County Town: His Father <hi>Lodowick</hi> was Brother to the late Lord <hi>Glenawly</hi> in <hi>Ireland,</hi> both Sons of <hi>Archibald Hamilton,</hi> Arch Biſhop of <hi>Caſhell</hi> in <hi>Ireland,</hi> had been both Colonels under <hi>Guſtavus Adolphus</hi> King of <hi>Sweden,</hi> and both raiſed to the dignity of Lords in that Kingdom. The Lord <hi>Lodwick</hi> married his Lady (who is Mother to our Governour) in <hi>Swedland,</hi> ſhe was a great Fortune to him, and 'tis ſaid ſhe is nearly related
+<pb n="5" facs="tcp:52589:9"/>
+to the Crowns of <hi>Denmark</hi> and <hi>Swedland;</hi> But he deſirous to live in his native Country near his Brother, the Lord <hi>Glenawly,</hi> upon his return was unfortunately killed at Sea, leaving our Governour and a younger Son behind him. Our Governour had been for ſeveral years Cornet to the Troop that belonged to his Uncle the Lord <hi>Glenawly,</hi> but was diſ<g ref="char:EOLhyphen"/>banded by the Lord <hi>Tyrconel,</hi> when the reſt of the Proteſtant Offices were turned out of the Army in <hi>Ireland,</hi> and af<g ref="char:EOLhyphen"/>ter that he lived conſtant ly at home on his own private Eſtate.</p>
+            <p>He was not preſent at the Election, but as ſoon as it was made known to him, he conſented to take that Charge upon him, and immediately gave orders to raiſe two Foot Companies in and about the Town, the one under the Com<g ref="char:EOLhyphen"/>mand of Captain <hi>Allen Cathcart,</hi> and the other under the Command of Captain <hi>Malcome Cathcart,</hi> and in a very few days formed a good Troop of Horſe, and a Foot Company for himſelf, out of his own Eſtate and the Country ad<g ref="char:EOLhyphen"/>joyning, and uſed all the endeavours he cou'd to provide them Arms and what elſe they wanted, and then remov<g ref="char:EOLhyphen"/>ed his Family from his own Dwelling Houſe to the Caſtle of <hi>Inniskillen.</hi>
+            </p>
+            <p>Some time before this, having heard that <hi>Derry</hi> had deni<g ref="char:EOLhyphen"/>ed entrance to the Lord <hi>Antrim</hi>'s Regiment, that was or<g ref="char:EOLhyphen"/>der'd to Quarter in that Town, and had choſen their former Governour Mr. <hi>Phillips,</hi> and were putting themſelves in a Poſture of Self-Defence againſt any <hi>Iriſh</hi> Garriſon to be ſent there, which nearly reſembled our Caſe; we did there<g ref="char:EOLhyphen"/>fore about the 20th. of <hi>December,</hi> ſend Captain <hi>Allen Cath<g ref="char:EOLhyphen"/>cart,</hi> and Lieutenant <hi>William Mac Cormick</hi> to <hi>Derry,</hi> with Letters, acquainting the Governour and others, that had any Command there with what we had done, craving their advice and aſſiſtance in caſe of any trouble to us, as promiſing them likewiſe our Friendſhip and aſſi<g ref="char:EOLhyphen"/>ſtance if they ſtood in need of it, and we had a ve<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:52589:10"/>
+kind return to our Letters by thoſe Gentlemen that were ſent.</p>
+            <p>Soon after this we had news brought us, that the Pro<g ref="char:EOLhyphen"/>teſtants in all parts of the Kingdom were very much oppreſt by the Papiſts, firſt by ſtealing their Goods in the Night, and in a ſhort time after taking them publickly in the day, and upon complaint made to the Magiſtrates, (who were for the moſt part Papiſts) had no redreſs given them; ſome of them having the confidence to tell the Proteſtants (who had been robbed of their Goods,) that if their Lives were ſpared they had no cauſe to complain, and now about this time ſeveral came to us from other parts of the Kingdom, leaving all their goods behind them; and among many others, thoſe two worthy Gentlemen, <hi>Thomas Lloyd</hi> and <hi>Daniel Hodſon</hi> Eſquires, with their Families; the firſt is now a Collonel among us; who though young, and of little experience be<g ref="char:EOLhyphen"/>fore, yet by his care and diligence has ſupplyed all other wants, and ſhewn himſelf a perſon of Courage and good Conduct beyond expectation.</p>
+            <p>It was about this time that the News came to us of the ate King having deſerted the Kingdom and Government, dis<g ref="char:EOLhyphen"/>banded his Army, and left all in confuſion in <hi>England,</hi> and the Lord <hi>Tyrconell</hi> of his own head was Arming all the Iriſh Papiſts, and inliſting forty or fifty Thouſand of them.</p>
+            <p>The Month of <hi>January</hi> was ſpent with us in Raiſing ſome more Troops and Foot Companies, and our Officers uſed all the care and diligence they poſſibly cou'd to fix the few fire Arms they had procured; they cauſed a great Number of Pikes to be made, and beat out a great many Sythes, fixing them in Poles, whereby in a ſhort time, the few Foot we had were in an indifferent poſture of defence; and having about twelve Companies and ſome few Troops rai<g ref="char:EOLhyphen"/>ſed, the Officers thought it time to Regiment themſelves, and made choice of <hi>Guſtavus Hamilton</hi> Governour of <hi>In<g ref="char:EOLhyphen"/>niskillen</hi>
+               <pb n="7" facs="tcp:52589:10"/>
+to be their Collonel, and <hi>Thomas Lloyd</hi> their Lieu<g ref="char:EOLhyphen"/>tenant Collonel, and about the latter end of <hi>January</hi> ſent Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Allen Cathcart</hi> (two <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o) their number, who had been very active among them<g ref="char:punc">▪</g> with an Addreſs to the then Prince of <hi>Orange,</hi> and with full power and inſtructions to act for them at the Court of <hi>England,</hi> to ſolicite for Commiſſions, Arms, Ammunition, and ſome Mony for the place. We ordered them to make their way by <hi>Scotland</hi> for their greater ſafety, and ſent Letters by them to the aſſociated Lords and Gentlemen of the Counties of <hi>Down</hi> and <hi>Antrim,</hi> acquainting them with our Affairs, and craving their aid in Caſe we were put to any extremity; and ſoon after had very kind An<g ref="char:EOLhyphen"/>ſwers returned to us.</p>
+            <p>The month of <hi>February</hi> was ſpent in Conſultations, and ſeveral Meetings and Treaties with Collonel <hi>Lundy,</hi> and the leading men in the Counties of <hi>Derry, Dunegall, Tyrone, Cavan,</hi> and elſe where: orders were given out that the pro<g ref="char:EOLhyphen"/>teſtants in the ſeveral Counties in the <hi>North Weſt</hi> part of <hi>Ireland</hi> ſhou'd form themſelves into Troops and Compa<g ref="char:EOLhyphen"/>nies, and afterwards into Regiments (for the <hi>North Eaſt</hi> part had done the ſame before) and all concluded (in caſe of ex<g ref="char:EOLhyphen"/>tremity) to ſubmit to Collonel <hi>Lundy,</hi> who was in great re<g ref="char:EOLhyphen"/>putation with us for Conduct, and experience in military affairs.</p>
+            <p>The Gentlemen of the County of <hi>Fermanagh</hi> did meet and conclude to raiſe two Regiments of Foot and a Regi<g ref="char:EOLhyphen"/>ment of Horſe, which by reaſon of ſome mens backward<g ref="char:EOLhyphen"/>neſs to the ſervice were not made up, ſo that the great ſtreſs of our Country was left upon the Governour of <hi>In<g ref="char:EOLhyphen"/>niskillen,</hi> and thoſe Gentlemen who did adhere to him.</p>
+            <p>And here I cannot but with honour make mention of Sir <hi>John Hume,</hi> who has been always reputed to have the greateſt fortune and beſt Eſtate in that County, but was then ſo ſickly and infirm, that he cou'd not undergo the
+<pb n="8" facs="tcp:52589:11"/>
+Toyl and Fatigue of thoſe Confuſions, yet he was not be<g ref="char:EOLhyphen"/>hind in contributing to his utmoſt for the common ſecuri<g ref="char:EOLhyphen"/>ty; he raiſed more than a hundred Horſe, and above two hundred Foot of his Tenants, and Armed them in<g ref="char:EOLhyphen"/>differently well at his own expence (who have behaved themſelves on all occaſions very well with us) he ſent for his Eldeſt Son from <hi>England,</hi> who had been three or four years in the Army there; a very hopeful young Gentle<g ref="char:EOLhyphen"/>man (who died in the ſervice) to Command them, and to defend his houſe, which ſtanding near <hi>Loghearn,</hi> within three miles of <hi>Inniskillen,</hi> he fortified very well, and plen<g ref="char:EOLhyphen"/>tifully furniſht it with Proviſions to his great charge, which has maintained a great Garriſon ever ſince, and been a very great ſecurity to the Country about, and of much con<g ref="char:EOLhyphen"/>ſequence to the defence of <hi>Inniskillen:</hi> He being forced by his great infirmity retired into <hi>England</hi> with his younger Chil<g ref="char:EOLhyphen"/>dren, his ſecond Son being in <hi>England</hi> before he came there he ſent him under the Command of Major General <hi>Kirk</hi> to the relief of <hi>Derry,</hi> who died of a Feaver at Sea much la<g ref="char:EOLhyphen"/>mented of all that knew him.</p>
+            <p>Now came the News to us, That the Convention of the Eſtates in <hi>England,</hi> as well Spiritual as Temporal, had Voted the late King <hi>James</hi>'s Deſertion to be an Abdication, and placed their Preſent Majeſties in the vacant Throne, and from this time and upon theſe grounds we thought we were oblig'd to behave our ſelves as their Subjects, our Alle<g ref="char:EOLhyphen"/>giance being transferr'd and deſcending from the late King <hi>James</hi> upon his voluntary Deſertion, as if he had been na<g ref="char:EOLhyphen"/>turally dead, and accordingly <hi>March</hi> the Eleventh, we did proclaim King <hi>William</hi> and Queen <hi>Mary</hi> at <hi>Inniskillen</hi> with ſuch Joy and Solemnity as our Circumſtances cou'd bear, rejoycing unſpeakably to ſee the Crown deſcend in the ſame Royal Line, which time out of mind had inherited our Government.</p>
+            <p>About the 16th. of <hi>March</hi> we had an Account, that the
+<pb n="9" facs="tcp:52589:11"/>
+Garriſon of <hi>Dunganon</hi> by order from Collonel <hi>Lundy</hi> was deſerted, and that they and all the Inhabitants in the Coun<g ref="char:EOLhyphen"/>try near <hi>Dunganon</hi> were fled towards <hi>Strabone</hi> and <hi>Derry.</hi> And about the ſame time, our Governour received Let<g ref="char:EOLhyphen"/>ters from Collonel <hi>Lundy,</hi> acquainting him, that it was con<g ref="char:EOLhyphen"/>cluded at their Committee, that all the Forces in the <hi>North Weſt</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> ſhou'd draw towards <hi>Derry</hi> and the <hi>Legan,</hi> to make good <hi>Fin Water</hi> againſt the Enemy, and he gave us a very melancholly account of the Ill condition his own men were in. But our Governour and the reſt of the Gen<g ref="char:EOLhyphen"/>tlmen that adhered to him, were poſitively reſolved not to deſert <hi>Inniskillen,</hi> the keeping whereof being of ſo great conſequence, that it kept the <hi>Conaught</hi> Iriſh, from joyning with the <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> Iriſh, and ſo was a great ſecurity to <hi>Derry</hi> and all the Country about it.</p>
+            <p>
+               <hi>March</hi> the 20th. all the Proteſtants in the County of <hi>Cavan</hi> in pitiful ſtormy Weather, and in great diſorder came running to <hi>Inniskillen,</hi> and the Villages about, to the no ſmall ſurprize of us all; about three or four Troops of Horſe coming before, followed with about as many Foot Companies, and then the whole inhabitants with their Wo<g ref="char:EOLhyphen"/>men and Children to their middle in Clay and Dirt, with pitiful Lamentations, and little or no Proviſion to ſuſtain them. Our Governour order'd them free Quarter for Man and Horſe in the Town and Country about, many of them were indifferently well Armed, and we were joyful that they were come to us, being in hopes that they wou'd joyn with us in the defence of our Country.</p>
+            <p>But upon enquiry into the reaſons of their leaving their Country as they did, (where they had ſeveral good ſtrengths that might for ſome time have been defended.) Their Officers told us, that they had orders from Colonel <hi>Lundy</hi> for ſo doing, and did endeavour (though to no purpoſe,) to perſwade our Governour to do the ſame with <hi>Inniskillen;</hi> But that which haſtened them away in
+<pb n="10" facs="tcp:52589:12"/>
+ſo great diſorder, was the Lord <hi>Gilmoy's</hi> coming with a part of the <hi>Iriſh</hi> Army into the County of <hi>Cavan,</hi> and ſurprizing a Houſe that belonged to Mr. <hi>Dixy</hi> Dean of <hi>Kilmore,</hi> and made Priſoner the Deans Eldeſt Son, (who was Captain of a Troop of Horſe,) <hi>Edward Charleton</hi> his Cornet, and about eight or ten of his Troopers; upon news of which all the Garriſons about broke up, ſome ſetting fire to their own Houſes, and the whole Country fled to us without knowing who or what number of men were come a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>The Lord <hi>Gilmoy</hi> animated by their running away, and thinking by their example to drive the whole Countty be<g ref="char:EOLhyphen"/>fore him, came with his Souldiers to <hi>Belturbet,</hi> and next day ſent a party to beſiege <hi>Crom,</hi> in the County of <hi>Ferma<g ref="char:EOLhyphen"/>nagh,</hi> a Caſtle ſtanding on <hi>Loghearn,</hi> about ſixteen miles diſtant from <hi>Inniskillen,</hi> it was under our protection, and has been ever ſince our Frontier Garriſon towards <hi>Dublin,</hi> and his Lordſhip thinking to frighten that Garriſon to a Compliance with his Demands, ſent two Canon made of Tin, near a yard long in the Chaſe, and about eight Inches wide, ſtrongly bound about with ſmall Cord, and covered with a ſort of Buckram, near the colour of a Canon. Theſe two mock Canon he drew towards <hi>Crom</hi> with eight Horſes a peece, making a great noiſe as if they were drawn with much difficulty. As ſoon as they came before <hi>Crom,</hi> he threatned to batter the Caſtle with theſe two great batter<g ref="char:EOLhyphen"/>ing Guns, and had the vanity to fire one of them, which burſt and had like (as t'was ſaid,) to have ſpoiled the Gunner. But thoſe within the Caſtle (depending upon aid from <hi>Innis<g ref="char:EOLhyphen"/>killen</hi>) denied to ſurrender, and fired out at them from the Caſtle, killing ſeveral: <hi>Gilmoy</hi> continues the Siege, and on <hi>Friday</hi> the 22th. of <hi>March,</hi> ſent a Letter to the Gover<g ref="char:EOLhyphen"/>nour of <hi>Inniskillen</hi> in the nature of a Summons, acquainting him that King <hi>James</hi> was come to <hi>Dublin,</hi> and that he was come with an Army to reduce that Country to his obedi<g ref="char:EOLhyphen"/>ence,
+<pb n="11" facs="tcp:52589:12"/>
+and that by his Commiſſion, he had power to grant them better Conditions than they might ever expect from him afterwards, if they were reduced by force. Upon re<g ref="char:EOLhyphen"/>ceipt of this Summons, our Governour called his Officers together to conſult what was fit to be done, and all of them did unanimouſly conclude not to deſert <hi>Inniskillen,</hi> nor to ſubmit to any but to King <hi>William</hi> and Queen <hi>Mary</hi> whom they had now Proclaim'd, and accordingly return'd Lord <hi>Gilmoy</hi> an anſwer, that they ow'd Allegiance to none but them, nor wou'd they ſubmit to any but to their Majeſties, or thoſe Commiſſioned by them, and ſo did prepare them<g ref="char:EOLhyphen"/>ſelves the beſt they cou'd to defend the Town, and to uſe what means they cou'd to relieve <hi>Crom.</hi>
+            </p>
+            <p>On <hi>Saturday</hi> the 23d. of <hi>March</hi> early in the morning, many of the County of <hi>Cavan</hi>-men left <hi>Inniskillen,</hi> and march'd towards <hi>Derry,</hi> in obedience (as they ſaid) to Co<g ref="char:EOLhyphen"/>lonel <hi>Lundies</hi> orders: And the ſame day in the afternoon, our Governour drew out all the Horſe and Foot he had un<g ref="char:EOLhyphen"/>der his Command to the common Hill near <hi>Inniskillen,</hi> keeping them all day at their Arms, expecting every hour to hear that the Lord <hi>Gilmoy</hi> was on his march towards us, and reſolved to give him battel before he came near the Town, for ever ſince we took up <hi>Inniskillen,</hi> we judged it adviſeable rather to fight the Enemy at a diſtance from it, than to let them lay Siege to it, and we have hitherto done accordingly: But ſeeing no Enemy appear all that day, and our Scouts returning and bringing us word that <hi>Gilmoy</hi> came only the length of <hi>Liſnaskea</hi> a Village ten miles di<g ref="char:EOLhyphen"/>ſtant from the Town, and that upon the news of our draw<g ref="char:EOLhyphen"/>ing out againſt him, was retreated back with his men to the Siege of <hi>Crom.</hi> Our Governour therefore in the Night, ſent a detachment of about two hundred of his beſt armed men, ſome by Land and ſome in Boats towards <hi>Crom,</hi> hop<g ref="char:EOLhyphen"/>ing they might get into the Caſtle in the Night, but it be<g ref="char:EOLunhyphen"/>ing day before they got there, the Enemy uſed all the En<g ref="char:EOLhyphen"/>deavours
+<pb n="12" facs="tcp:52589:13"/>
+they cou'd to keep our Boats from Landing at the Caſtle, firing many Vollies at them, but being bad marks<g ref="char:EOLhyphen"/>men, killed only one old Boatman, and did our men no farther harm, but our men ſhot ſeveral of them dead from the Boats, Landed at the Caſtle, and having joyned thoſe that were within, they ſallied out together, and beat them from their Trenches, killed, between, thirty and forty of them, got the Fire arms of thoſe that they killed, took their two mock Canon, (one of which was left at <hi>Crom,</hi> and the other brought to the Caſtle of <hi>Inniskillen,</hi>) got two ſuits of Armour, and ſeveral other things of value, and im<g ref="char:EOLhyphen"/>mediately after this the Lord <hi>Gilmoy</hi> quit the thoughts of any farther Siege againſt <hi>Crom,</hi> and retreated to <hi>Belturbet.</hi>
+            </p>
+            <p>At this time one <hi>Brian Mac Knaghor Mac Guir</hi> (who had been a Captain in the <hi>Iriſh</hi> Army,) was a Priſoner with us at <hi>Crom.</hi> Him the Lord <hi>Gilmoy</hi> had a deſire to releaſe, and the next day ſent an Expreſs to Captain <hi>Crighton</hi> (the proprietor of the Caſtle of <hi>Crom,</hi> and is Governour thereof) propoſing to exchange Captain <hi>Dixie</hi> for this Captain <hi>Mac Guir,</hi> and deſiring if the change were approved of, that Capt. <hi>Mac Guir</hi> might be ſent to him, promiſing upon his Honour, to return us Captain <hi>Dixie</hi> for him. The exchange was very acceptable to the Govern our and all that were in the Caſtle of <hi>Crom,</hi> but yet wou'd conclud nothing un<g ref="char:EOLhyphen"/>til they had the conſent of the Governour of <hi>Inniskillen,</hi> and the other Officers that were there, and ſo ſent an Expreſs from <hi>Crom</hi> to <hi>Inniskillen</hi> for their Reſolution. The Meſſen<g ref="char:EOLhyphen"/>ger was immediately ſent back to Captain <hi>Crighton,</hi> with Orders from the Governour to go on with the Exchange: Accordingly Captain <hi>Crighton</hi> ſent <hi>Mac Guir</hi> to the Lord <hi>Gilmoy</hi> deſiring that Captain <hi>Dixie</hi> might be returned to him according to his promiſe under his hand, which Letter is in the hands of the Governour of <hi>Inniskillen.</hi>
+            </p>
+            <p>But the Lord <hi>Gilmoy</hi> (ſhewing what we may expect from the word and promiſe of a Papiſt) as ſoon as he had <hi>Mac Guir</hi>
+               <pb n="13" facs="tcp:52589:13"/>
+in his hands, called a Council of War on Captain <hi>Dixie</hi> and his Cornet Mr. <hi>Charleton,</hi> where they were both found guilty, and ſentence of Death paſſed upon them, for levy<g ref="char:EOLhyphen"/>ing men by the Prince of <hi>Oranges</hi> Commiſſion, which was found in their Pockets; and immediately they were deſired to prepare to Die againſt the next day; but in the mean time great endeavours were uſed, and promiſes made them of life and preferment, if they wou'd turn Papiſts and ad<g ref="char:EOLhyphen"/>here to King <hi>James.</hi> But they (though both young men,) reſolutely rejected the offer, and preferr'd their Religion to the ſaving of their Lives.</p>
+            <p>And here I cannot but remember <hi>Mac Guires</hi> Carriage, who (as it was reported) ſhewed an extraordinary concern for the Lord <hi>Gilmoyes</hi> breach of Faith, he went to him and told him, that his putting <hi>Mr. Dixie</hi> to death, (after his pro<g ref="char:EOLhyphen"/>miſe under his hand to return him) wou'd be a perpetual ſtain to his honour, and rather than he ſhou'd do ſo baſe a thing, prayed that he might be return'd a priſoner back to <hi>Crom,</hi> and that Mr. <hi>Dixies</hi> Life might be ſaved, for he did not deſire to purchaſe his Freedom by ſo great injuſtice. But the Lord <hi>Gilmoy</hi> deaf to any thing that cou'd be ſaid on their behalf, caus'd both the Young Gentlemen to be hanged on Mr. <hi>Ruſſels</hi> Sign Poſt in <hi>Belturbet,</hi> and when they were dead commanded to take their Corps into the Kitchen, to cut off both their Heads, and ordered them to be thrown out in<g ref="char:EOLhyphen"/>to the Street to the Souldiers, to play at foot ball with, and when the Souldiers for ſome time had pleaſed themſelves with this Barbarous ſport, their heads were ſet up on the Market Houſe in <hi>Belturbet.</hi>
+            </p>
+            <p>
+               <hi>March</hi> the 25th. 1689 having intelligence that Captain <hi>James Hamilton</hi> was come to <hi>Derry</hi> from <hi>England</hi> with great ſtore of Ammunition, and Arms: The Governour ſent <hi>Ni<g ref="char:EOLhyphen"/>cholas Weſtby</hi> 
+               <abbr>Eſq</abbr> and my ſelf <hi>Andrew Hamilton</hi> Clark, and a guard of four and twenty men to <hi>Derry</hi> with letters to Collonel <hi>Lundy,</hi> and Captain <hi>James Hamilton</hi> for a ſupply
+<pb n="14" facs="tcp:52589:14"/>
+of Arms and Ammunition, Captain <hi>Hamilton</hi> was very de<g ref="char:EOLhyphen"/>ſirous to ſupply us, but Colonel <hi>Lundy</hi> having the Com<g ref="char:EOLhyphen"/>mand of all gave us but a very cold welcome, would not give us one fix'd Arm, and only ſixty Musket Barrels with<g ref="char:EOLhyphen"/>out ſtock or lock, that were thrown by in the ſtore houſe of <hi>Derry</hi> as uſeleſs, which we ſoon fix'd, and five Barrels of Powder out of at leaſt five hundred Barrels then in <hi>Derry,</hi> the Powder and Musket Barrels we ſent ſafe to <hi>Inniskillen,</hi> and this was all the ſupply that ever we had of Arms and Ammunition (but what we took from the Enemy) until Ma<g ref="char:EOLhyphen"/>jor General <hi>Kirk</hi> ſupplyed us.</p>
+            <p>And now. Mr. <hi>Hamilton</hi> on his way back from <hi>Derry</hi> to <hi>Inniskillen,</hi> met Dr. <hi>Walker</hi> at <hi>Lifford</hi> where a token paſſed between them which was of great uſe afterwards during the Siege of <hi>Derry.</hi> For, all the Correſpondence that was kept between <hi>Derry</hi> and <hi>Inniskillen</hi> was managed by Dr. <hi>Walker</hi> and Mr. <hi>Hamilton,</hi> and becauſe it was hazardous to write, it was concluded on, that all meſſengers that credit was to be given to by either party, were to give that token which if they could not give, no notice was to be taken of what they ſaid. And during the firſt month or ſix weeks of the Siege the <hi>Iriſh</hi> Army did not much Scruple to let both men and women paſs to and from <hi>Derry,</hi> whereby we had a conſtant Correſpondence with them during that time, but after that they, would ſuffer none to go into the City, whereby our Correſpondence was in a manner wholly cut off.</p>
+            <p>
+               <hi>April</hi> the 13th. having intelligence that Collonel <hi>Cun<g ref="char:EOLhyphen"/>ingham</hi> and <hi>Richards</hi> were come to the <hi>Lough</hi> of <hi>Derry,</hi> with Men, Arms, and Ammunition. The Governour of <hi>Innis<g ref="char:EOLhyphen"/>killen</hi> ſent Mr. <hi>Andrew Hamilton</hi> to <hi>Derry</hi> again for a far<g ref="char:EOLhyphen"/>ther ſupply of both, but the <hi>Lagan</hi> Army happening to be broke near that time, and the <hi>Iriſh</hi> Army coming before <hi>Derry,</hi> Collonel <hi>Cuningham</hi> returned to <hi>England</hi> without landing the Men or Arms he brought with him; and Mr.
+<pb n="15" facs="tcp:52589:14"/>
+               <hi>Hamilton</hi> endeavouring to make his way back from <hi>Derry</hi> to <hi>Inniskillen</hi> was taken by a Quarter-maſter of the <hi>Iriſh</hi> horſe, but then King <hi>James</hi> having iſſued out his Procla<g ref="char:EOLhyphen"/>mation, that all men that pleaſed ſhould have liberty to go to their former dwellings, Mr. <hi>Hamilton</hi> procured Lieutenant General <hi>Hamiltons</hi> Paſs, to return to his houſe in <hi>Kilſkirry,</hi> and ſo got Safe back to <hi>Inniskillen.</hi> But before he left the <hi>Iriſh</hi> Camp, he got a truſty meſſenger ſent into <hi>Derry</hi> to Dr. <hi>Walker,</hi> and having given him the token that was between them, it was Concluded on, that Dr. <hi>Walker</hi> ſhould not give credit to any report that might come to <hi>Derry</hi> of <hi>Inniskillen</hi> being taken by the <hi>Iriſh</hi> unleſs he ſaw it under the Governours hand, or Mr. <hi>Hamiltons:</hi> and neither were we to believe that <hi>Derry</hi> was taken un<g ref="char:EOLhyphen"/>leſs we ſaw it under Dr. <hi>Walkers</hi> hand, and this was ve<g ref="char:EOLhyphen"/>ry happily concluded on, for there was Scarce a week af<g ref="char:EOLhyphen"/>ter the Siege of <hi>Derry</hi> began, but the <hi>Iriſh</hi> found means to ſpread a report among us, that <hi>Derry</hi> was taken by them, which we gave no credit to ſince we did not ſee it under Dr. <hi>Walkers</hi> hand, which was well known to ſeveral of us.</p>
+            <p>It will be but a ſmall digreſſion here to relate an unnatu<g ref="char:EOLhyphen"/>ral piece of Cruelty, that I ſaw in the <hi>Iriſh</hi> Camp before <hi>Derry,</hi> at the time that I came to get Lieutenant General <hi>Ha<g ref="char:EOLhyphen"/>miltons</hi> Paſs to return to my own Houſe.</p>
+            <p>On <hi>Thurſday</hi> the 25th. of <hi>April,</hi> with one Mr. <hi>Anthony Dobbin</hi> (a Juſtice of the Peace near <hi>Derry,</hi>) I came to the <hi>Iriſh</hi> Camp about Nine or Ten of the Clock in the Morning, at which time a conſiderable party of the men of <hi>Derry</hi> came from the Town, and were Skirmiſhing with ſome party of the <hi>Iriſh,</hi> where Lieutenant General <hi>Hamilton</hi> went himſelf in perſon to encourage his men, and whilſt we were expect<g ref="char:EOLhyphen"/>ing his return, Mr. <hi>Dobbin</hi> and I went as near the place where the Fight was, as (in the circumſtances we were in) we durſt venture, and coming among ſome of their Tents, we met
+<pb n="16" facs="tcp:52589:15"/>
+Lieutenant Collonel <hi>Farrell,</hi> Lieutenant Collonel <hi>Nugent,</hi> and his Father Mr. <hi>Nugent</hi> of <hi>Coolamber,</hi> with ſeveral others, who being of the County of <hi>Longford,</hi> and having ſome Eſtate in that County, and been acquainted with thoſe Gen<g ref="char:EOLhyphen"/>tlemen formerly they came to me, and very civilly offer'd to do me any Service they cou'd in that place; whilſt we were together, we heard ſeveral Shots going off within a little way of us, and ſeeing a Souldier coming from the place, Lieutenant Collonel <hi>Farrel</hi> enquired of him what the reaſon of it might be, who made anſwer that there was very good ſport there, for the Souldiers had got an <hi>Engliſh</hi> or a <hi>Scotch</hi> Witch who came to bewitch their Horſes, and had been gathering their Horſe-Dung, but the Souldiers had made above twenty Shot at her and could not get her kill'd, upon which believing it was ſome poor old Crea<g ref="char:EOLhyphen"/>ture that they were murthering, I entreated thoſe Gentle<g ref="char:EOLhyphen"/>men to ſtep to the place and to ſave her, until they en<g ref="char:EOLhyphen"/>quired into the matter, who accordingly went, (my ſelf, Mr. <hi>Dobbin,</hi> and above twenty others being in Company with them,) and as they came within twenty or thirty yards of the place, we ſaw a poor old Woman at leaſt ſeventy years of Age, ſitting with her breſt laid bare, and one of the Souldiers came cloſe up to her, and held the muzle of his Musket to her breaſt and ſo ſhot her dead. It ſeems they being bad marks-men and ſhooting at her at a diſtance, none of their former ſhots were mortal, though ſhe was wounded in ſeveral places. I being concern'd at the bar<g ref="char:EOLhyphen"/>barous Cruelty of the Fact, enquir'd into the matter, and who the Woman was, and found that ſhe had been a Wo<g ref="char:EOLhyphen"/>man of the Country near <hi>Derry,</hi> who being rob'd of all that ſhe had by the <hi>Iriſh</hi> Army, and hearing that the Army was full of Proviſions, having got all the Meal of that Country, and that they were very civil to all people that came among them, ſhe came there that morning to beg a little Meal among the Tents, and a man paſſing by her
+<pb n="17" facs="tcp:52589:15"/>
+with a load of Meal, the bag burſt, ſome of the Meal falling upon ſome Horſe-dung, and after the man had gather'd up as much of the Meal as he thought fit, the poor Woman came, and was throwing the Horſe-dung out of the dirty-Meal that he had left, which an <hi>Irish</hi> Souldier ſeeing, cal<g ref="char:EOLhyphen"/>led out that there was a Witch, gathering their Horſe-dung to bewitch their Horſes, that the men of <hi>Derry</hi> might get the better of them, upon which the Souldiers gather'd about her, and brought her to that Tragical end that I have here told.</p>
+            <p>
+               <hi>April</hi> the 24th. Lieutenant Collonel <hi>Loyd</hi> by our Go<g ref="char:EOLhyphen"/>vernours order took a party of foot and horſe, and went from <hi>Inniskillen</hi> towards <hi>Omagh,</hi> where the <hi>Iriſh</hi> had a Gar<g ref="char:EOLhyphen"/>riſon, (which his party was not in a condition to beſiege) he drove all the Cattel near that place with him, from thence he went to <hi>Aughor,</hi> where the <hi>Iriſh</hi> had another Gar<g ref="char:EOLhyphen"/>riſon in the Caſtle, which fled before he came to it, but leaſt they might return thither again, he ſet the Caſtle on fire burning it to the ground, and defacing the fortificati<g ref="char:EOLhyphen"/>ons about it. From thence went into the Country of <hi>Mo<g ref="char:EOLhyphen"/>neghan,</hi> and ſo returned to <hi>Inniskillen</hi> with a very great prey of Cows and Sheep, which proved a ſeaſonable relief to the poor people in and about <hi>Inniskillen,</hi> for when the party came in one might have bought from the Souldiers a good milch Cow for two ſhillings or half a Crown, and a dry Cow, or an Ox cheaper, and this was Lieutenant Col<g ref="char:EOLhyphen"/>lonel <hi>Loyds</hi> firſt expedition with our men.</p>
+            <p>About this time in the later end of <hi>April</hi> there came to us from <hi>Balliſhany</hi> ſome troops and ſoot companies of excel<g ref="char:EOLhyphen"/>lent men that belong'd to my Lord <hi>Kingſton,</hi> and came with him to <hi>Beliſhany,</hi> when at Collonel <hi>Lundies</hi> deſire he left <hi>Sligo.</hi> And then our Governour raiſed a Fort on the com<g ref="char:EOLhyphen"/>mon hill next the ſtone bridge, which he afterwards (to
+<pb n="18" facs="tcp:52589:16"/>
+his great charge) did finiſh, and is a very conſiderable, ſtrength, and great ſecurity to the Town.</p>
+            <p>
+               <hi>May</hi> the 2d. The <hi>Iriſh</hi> Garriſon in <hi>Omagh</hi> ſent two men unto the Pariſh of <hi>Kilskirry</hi> within five miles of <hi>Inniskillen</hi> and in the night the two men ſtole away about twenty or thirty Cows. In the morning the owners miſſing their Cows, and ſeeing their track go towards the road that leads to <hi>Omagh</hi> did believe them ſtollen, and therefore ſent to ſome of their neighbours to come and aſſiſt them in go<g ref="char:EOLhyphen"/>ing in Queſt for their Cows; Accordingly eight of them got together and went upon the trace of the Cattel and overtook them within a few miles of <hi>Omagh,</hi> but the theives made their eſcape to that Garriſon: The men that followed the Cows having got them gave themſelves no further trou<g ref="char:EOLhyphen"/>ble in following the thieves, but were bringing the Cows back with them to their own dwelling, but before they got above half way home they were overtaken by four and twenty Dragoons from <hi>Omagh</hi> well mounted; the men (having all but bad horſes and few Arms) three of them quit their horſes and got into a great bog: The other five thinking they had done no harm but followed their own Goods, ſubmitted and had Quarter given them. The Dragoons (leaving a guard with the five priſoners) follow<g ref="char:EOLhyphen"/>ed the other three men, but to no purpoſe, for the Bog that they got to lay near a mountain not paſſable by horſe, whether they eſcaped and ſo got home. The Dragoons returned to the priſoners carried them a little way back with them, and then moſt barbarouſly murder'd them all cutting them ſo in the face with ſwords and baggonets that their friends ſcarce knew one of them when they found them: and this for the moſt part was the fair Quarter that the <hi>Iriſh</hi> gave our men when ever they took any of them, which was the principal cauſe of our ſo obſtinate defence both of <hi>Der<g ref="char:EOLhyphen"/>ry</hi> and <hi>Inniskillen</hi> againſt ſuch unequal odds for theſe with what I told before of the Lord <hi>Gilmoy</hi> and other like barbarous
+<pb n="19" facs="tcp:52589:16"/>
+Uſages and breach of Faith, with the ſame yet in me<g ref="char:EOLhyphen"/>mory practiſed in 41. and all agreeing with the Princi<g ref="char:EOLhyphen"/>ples of their Religion, That Faith is not to be kept with thoſe whom they account Hereticks. All this made ſo ſtrong an impreſſion upon the minds of the People, that they were firmly perſwaded the <hi>Iriſh</hi> wou'd not keep Articles with them; and therefore that it was in vain to capitulate. And they not only acted theſe Inhuma<g ref="char:EOLhyphen"/>nities without remorſe, but glory'd in them; for the next day after that horrrid and baſe Murder I have told, <hi>Bellew</hi> the Governour of <hi>Omagh</hi> ſent an Expreſs to Lieu<g ref="char:EOLhyphen"/>tenant General <hi>Hamilton</hi> before <hi>Derry,</hi> acquainting him that a Party of his Garriſon had gone towards <hi>Inniſ<g ref="char:EOLhyphen"/>killing,</hi> and killed about a hundred of our Men (calling every man twenty) which good News ſoon went through the whole <hi>Iriſh</hi> Camp, and cauſed a great deal of Joy among them.</p>
+            <p>
+               <hi>May</hi> the 4th. our Governour had an Expreſs ſent him from Captain <hi>Folliot,</hi> Governour of <hi>Balliſhany,</hi> acquaint<g ref="char:EOLhyphen"/>ing him, That a conſiderable Party of Men were come from <hi>Conaught</hi> to beſiege that place; he ſent him the Summons he had got, and prayd him to ſend ſpeedy relief. <hi>May</hi> the 6th. our Governour ſent to all the Garriſons under his Command, ordering them to ſend him ſpeedily all the armed Men they cou'd ſpare; and the next day ſent Lieutenant-Colonel <hi>Lloyd</hi> with about twelve Foot-Companies, and ſome Troops of Horſe to<g ref="char:EOLhyphen"/>wards <hi>Belliſhany,</hi> who meeting the Enemies Horſe near <hi>Beleek</hi> (a Village three miles nearer <hi>Inniskilling</hi> than <hi>Belli<g ref="char:EOLhyphen"/>ſhany</hi>) ſoon put them to the rout, killed about ſixſcore of them, and took about ſixty Priſoners: All their Foot fled away towards <hi>Sligo,</hi> and got off ſafe, except ſome few that were taken in the Fiſh-Iſland near <hi>Belliſhany,</hi> with their Captain, one <hi>Mac Donagh,</hi> a Counſellor at Law commonly known by the Name of Blind <hi>Mac Donagh'</hi>
+               <pb n="20" facs="tcp:52589:17"/>
+We got two ſmall Cannon, ſeveral ſervice-Horſes, and ſome good Arms; and thus was <hi>Belliſhany</hi> relieved by us on the eighth day of <hi>May</hi> 1689. and this was the firſt time that our men encounter'd the Enemy in the Field with Foot and Horſe; and having had ſo great Suc<g ref="char:EOLhyphen"/>ceſs in the beginning, it encouraged our men very much; and ſo we returned to <hi>Inniskilling,</hi> having gained this Vi<g ref="char:EOLhyphen"/>ctory without the loſs of one man.</p>
+            <p>Immediately after this, we had an Expreſs ſent us from Colonel <hi>Sarsfield,</hi> propoſing an exchange of ſome Priſo<g ref="char:EOLhyphen"/>ners of War that the <hi>Iriſh</hi> had at <hi>Galway</hi> and <hi>Ballinrob,</hi> for thoſe that we had taken it <hi>Belliſhany.</hi> Our Gover<g ref="char:EOLhyphen"/>nour was willing to liſten to the Change, but having been ſo treacherouſly ſerved before by <hi>Gilmoy</hi> in the matter of Captain <hi>Dixie,</hi> deſired Col. <hi>Sarsfield</hi> to ſend him the Names of the Priſoners that he would change for thoſe then at <hi>Inniskilling.</hi> Col. <hi>Sarsfield</hi> delayed ſending their Names for near a Month after, and in the mean time he order'd all the Proteſtants in the Province of <hi>Conaught</hi> (that had a little before taken Protection from him and others) to be put into the Goal of <hi>Sligo,</hi> and then ſent their Names to our Governour, pretending that Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Southwel</hi> and ſome other Priſoners in <hi>Galway,</hi> that be<g ref="char:EOLhyphen"/>fore he promiſed us, were to be ſent into <hi>England</hi> to re<g ref="char:EOLhyphen"/>lieve ſome <hi>Iriſh</hi> Priſoners who were kept there; but our Governour ſuſpecting ſome deceit, refus'd the Change: upon which Col. <hi>Sarsfield</hi> dealt very hardly with theſe he had in Priſon, ſcarce allowing them Food to keep them from ſtarving, and made them ſend ſome of their Wives to our Governour with Petitions and Letters, begging of him to relieve them out of their Miſery: Upon which at length our Governour conſented to the Change; but this was not without Treachery, as the Governour had ſuſ<g ref="char:EOLhyphen"/>pected; for he found all thoſe who were ſent him in ex<g ref="char:EOLhyphen"/>change, to have been perſons protected by the <hi>Iriſh,</hi> whom
+<pb n="21" facs="tcp:52589:17"/>
+afterwards they made Priſoners, and uſed them ill (not regarding the Protections they had given) on purpoſe to cheat the Governour with the exchange. It was the expe<g ref="char:EOLhyphen"/>rience of ſuch faithleſs Dealing, and cruel Butcheries of our men after Quarter given, that made ſome of our Soul<g ref="char:EOLhyphen"/>diers leſs merciful to them in Battel, than they would have been to any other Enemy. And we ſuppoſe it was for this reaſon that for ſome time we enjoy'd our quiet, being a terrour to the <hi>Iriſh</hi> on all hands near us.</p>
+            <p>But in the latter end of <hi>May,</hi> information being brought to the Governour, that there was a Garriſon of the <hi>Iriſh</hi> in <hi>Redhill,</hi> and another at <hi>Bellinacareg</hi> (two Houſes in the County of <hi>Cavan</hi>) who ſtraitned thoſe of our bounds that lay next them; Lieutenant Col. <hi>Lloyd</hi> was ſent from <hi>Inniskilling</hi> againſt them; but he no ſooner ſet out with a<g ref="char:EOLhyphen"/>bout 1500 Horſe and Foot, but the news of his march was brought to the County of <hi>Cavan</hi> before him, and their fear added to his number, he being reported to be about fifteen, or ſixteen thouſand; upon which all the <hi>Iriſh</hi> fled, and we no ſooner came to <hi>Redhill,</hi> but the Garriſon held out a ſign for a Treaty; and having Conditions offer'd them, immediately ſurrender'd the Place with all that was therein, getting Quarter to all the men that were in it; and ſo without deſtroying that Houſe, we marched from thence with the Priſoners we had taken, to <hi>Bellinacareg,</hi> which was reputed one of the ſtrongeſt Caſtles in that part of <hi>Ireland;</hi> and that which gave it the greater name (tho' it was indeed a ſtrong place) was becauſe <hi>Oliver Cromwel</hi> lay ſeveral days before it, and could not take it, but left it, until afterwards the <hi>Iriſh</hi> deſerted the place, when he had overcome the reſt of the Kingdom. But when we came before it, there was no great Garriſon, and but little Ammunition in it; and the news of our taking <hi>Redhill</hi> ſtruck ſo great a terrour in thoſe of the Caſtle, that not many hours after our men came there, they held out a
+<pb n="22" facs="tcp:52589:18"/>
+Flag for a Treaty, and did capitulate, That both they and the other Priſoners taken at <hi>Redhill,</hi> ſhould have free li<g ref="char:EOLhyphen"/>berty to go, without being ſtripp'd, leaving the Caſtle with the Arms, Ammunition, and what Goods were in it, to the Plunder of our Souldiers, which was accordingly per<g ref="char:EOLhyphen"/>formed by both Parties. We got in the Caſtle ſome Pikes, about thirty Muſquets, ſome Caſes of Piſtols, and but very little Powder. As ſoon as our Souldiers had plun<g ref="char:EOLhyphen"/>der'd the Caſtle, we ſet ſome Maſons, who were in our Party, to undermine the Walls of it, which they ſoon did, and then ſet it on fire, and in a very few hours it fell to the ground, and ſunk in a heap of Rubbiſh; which we did, becauſe it was a place of great ſtrength, and lying in the heart of the <hi>Iriſh</hi> Country.</p>
+            <p>The News of our taking <hi>Redhill</hi> and <hi>Bellinacareg</hi> was ſoon brought to <hi>Dublin,</hi> with a report, that our Army was on their March thither (being ever after this reputed among the <hi>Iriſh</hi> to be above fifteen thouſand well armed Men) and it is incredible to think what a Conſternation the <hi>Iriſh</hi> about <hi>Dublin</hi> were in; but our number was too ſmall, and not half well armed for ſuch an Undertaking; however our Men marched near <hi>Kells</hi> and <hi>Finna</hi> in the County of <hi>Meath,</hi> and brought from thence above three thouſand Cows and Oxen, two thouſand Sheep, and ſome Horſes, and then returned ſafe to <hi>Inniskilling,</hi> without the loſs of one Man.</p>
+            <p>
+               <hi>June</hi> the 3d. Information was brought to <hi>Inniskilling,</hi> That the <hi>Iriſh</hi> Army before <hi>Derry</hi> had ſent a great many of their ſervice-Horſes to graze in ſome waſte Lands near <hi>O<g ref="char:EOLhyphen"/>magh,</hi> eighteen miles diſtant from <hi>Inniskilling;</hi> and the next day our Governour ſent two Troops under the Com<g ref="char:EOLhyphen"/>mand of Captain <hi>Francis Gore,</hi> and Captain <hi>Arnold Cosbie,</hi> into the Pariſh of <hi>Kilskirry,</hi> ordering them to keep Gar<g ref="char:EOLhyphen"/>riſon at <hi>Trellik,</hi> a Houſe belonging to Captain <hi>Mervyn,</hi> and about half way betwixt <hi>Inniskilling</hi> and <hi>Omagh.</hi> They
+<pb n="23" facs="tcp:52589:18"/>
+had not ſtaid there above two days, when taking with them another Troop and two Foot-Companies that quar<g ref="char:EOLhyphen"/>ter'd in the Pariſh of <hi>Kilskirry,</hi> they went in the Evening about Sun-ſet from <hi>Trellick</hi> towards <hi>Omagh,</hi> and before eight of the Clock the next day they returned to <hi>Trellick</hi> with about eight ſcore of good ſervice Horſes taken from the Enemy at <hi>Omagh,</hi> and near as many more ſmaller Hor<g ref="char:EOLhyphen"/>ſes fit for labour, and about three hundred Cows. This was a lucky hit; for by it we did diſable about three Troops of the Enemy, and better'd ſeveral of our own Troops, when the Horſes were divided among the Men they ſold the Horſes they got to others of our party, at very eaſie rates; and our Men had certainly ſurpriz'd the For at <hi>Omagh,</hi> and taken it, if notice had not been ſent to the Ene<g ref="char:EOLhyphen"/>my of their coming, and ſo they had time to ſecure the Fort, but not to ſave their Horſes, who were grazing with<g ref="char:EOLhyphen"/>in a ſhort way of the Town.</p>
+            <p>Soon after this, we had information from all hands, of the miſerable condition that the Garriſon in <hi>Derry</hi> was reduc'd to, and ſeveral Meſſages were ſent us to endeavour their Relief; but alas our Condition was very unfit to attack ſo powerful an Enemy, and ſo well appointed as the Army that lay before <hi>Derry</hi> was; for we were not then at moſt above two thouſand Men, and thoſe very ill armed; and we had not above two Barrels left of the five Barrels of Powder that Col. <hi>Lundy</hi> gave us. But hearing that <hi>Der<g ref="char:EOLhyphen"/>ry</hi> muſt ſurrender very ſoon, unleſs reliev'd, and believing that much of our Safety did depend upon it, our Gover<g ref="char:EOLhyphen"/>nour reſolv'd in perſon, with all the ſtrength we could make, to endeavour its relief, or periſh in the Attempt.</p>
+            <p>Our Governour therefore drew all his Men to the Field, and notwithſtanding that he was much preſs'd by thoſe of <hi>Inniskilling</hi> not to go in Perſon, but rather to ſtay in the Town for the ſecuring of the Place, yet (ſince <hi>Derry</hi> was in ſo great hazard) he could not be perſwaded to ſtay, but
+<pb n="24" facs="tcp:52589:19"/>
+on the 10th. day of <hi>June,</hi> he marched his Men, being near two thouſand, and came that night to <hi>Trellik;</hi> the next day we march'd toward <hi>Omagh,</hi> and on the Road we were inform'd, That the Garriſon at <hi>Omagh</hi> hearing of our com<g ref="char:EOLhyphen"/>ing, had fled from that place, which (tho' it was a falſe information) yet incourag'd ſome of our Party, who were free Booters, and not under any Command, to go on be<g ref="char:EOLhyphen"/>fore in hopes to get the Plunder of the Town before the Souldiers came to it. They went near a mile before our Forelorn, but by that time that they came within leſs than three miles of <hi>Omagh,</hi> and fearing no Enemy, they were ſurpriz'd by a party of the Garriſon at <hi>Omagh,</hi> that lay in Ambuſh in a hollow, and came upon them unawares; yet all of them made their eſcape, and retreated ſafe to our Forelorn, except one <hi>Rowland Betty,</hi> a man in good e<g ref="char:EOLhyphen"/>ſteem among us, who after he had diſcharg'd his Piſtol, juſt as he was wheeling his Horſe, fell to the ground, and before he cou'd recover his Saddle again, they came upon him and took him Priſoner, carried him with them a great way nearer <hi>Omagh,</hi> and then murder'd him. And thus (as I ſaid) for the moſt part they dealt with many of our Men after they had been their Priſoners, and gotten fair Quarter.</p>
+            <p>Our Governor with his Men march'd that night within a mile and a half of <hi>Omagh,</hi> and next day early he poſ<g ref="char:EOLhyphen"/>ſeſt himſelf of the whole Town (being an open place) except the Fort, which he laid cloſe Siege to Our Men placed themſelves in all the Houſes near the Fort, and be<g ref="char:EOLhyphen"/>ing good Markſmen, ply'd them ſo warmly with their ſmall Shot, that not a man of them durſt come in view; for they killed one of them, and wounded ſeveral others. But we had not been there many hours, when ſeveral Ex<g ref="char:EOLhyphen"/>preſſes came fron <hi>Inniskilling,</hi> one after another to our Governor and the Officers that were with him, acquaint<g ref="char:EOLhyphen"/>ing him and them, that Col. <hi>Sarsfield</hi> with five or ſix Thou<g ref="char:EOLhyphen"/>ſand
+<pb n="25" facs="tcp:52589:19"/>
+Men was come to beſiege <hi>Belliſhanny,</hi> within twenty miles of <hi>Inniskilling,</hi> and that Col. <hi>Sowtherland</hi> was come with another Army to <hi>Belturbet,</hi> about twenty miles di<g ref="char:EOLhyphen"/>ſtant from <hi>Inniskilling</hi> on the other hand; and that the one Army, if not both, would be very ſoon at <hi>Inniskilling:</hi> Our Governor therefore having received this Account, called his Officers together, to conſult what was fitteſt to be done, whether to go on to relieve <hi>Derry,</hi> or to re<g ref="char:EOLhyphen"/>turn for the defence of <hi>Inniskilling.</hi> But the moſt of them having their Families or Friends in <hi>Inniskillng,</hi> it was ſoon reſolv'd on to return: Some of the Officers were for burn<g ref="char:EOLhyphen"/>ing the Town, it being a great ſhelter for the <hi>Iriſh</hi> Army on their March to and from <hi>Derry;</hi> but the Town, be<g ref="char:EOLhyphen"/>longing to Capt. <hi>Mervyn,</hi> who is a good Proteſtant, and in great eſteem in that Country, it was reſolved to ſpare the Town for his ſake; and ſo we left it as we found it, and the next day our Men return'd to <hi>Inniskilling.</hi>
+            </p>
+            <p>
+               <hi>June</hi> the 15th. we had Intelligence that Col. <hi>Sowther<g ref="char:EOLhyphen"/>land</hi>'s Party at <hi>Belturbet,</hi> was daily increaſing, the <hi>Iriſh</hi> flocking to him from all Parts, and that he intended ſoon to draw towards <hi>Inniskilling.</hi> But we were ever reſolved, not to ſuffer the Enemy to come ſo near as to lay ſiege to the Town, but rather to ſight them before they came to't; neither did we think it ſafe to give them any long time to ſtay near our Quarters; and therefore our Governor ordered Lieut. Col. <hi>Lloyd</hi> to take the Field with the great<g ref="char:EOLhyphen"/>eſt ſtrength we could make in Foot and Horſe, and to march againſt <hi>Sowtherland.</hi>
+            </p>
+            <p>
+               <hi>June</hi> the 17. Lieut. Col. <hi>Lloyd</hi> came with his Men to <hi>Mac-Guires</hi> Bridge, a Place not full half way betwixt <hi>Inniskilling</hi> and <hi>Belturbet,</hi> where Col. <hi>Southerland</hi> and his Party lay; from which Place an <hi>Iriſh</hi> Spy went in the night, and ac<g ref="char:EOLhyphen"/>quainted Col. <hi>Southerland,</hi> that all the Forces of <hi>Inniskilling</hi> were coming againſt him: Col. <hi>Southerland</hi> had then with him but about two Regiments of Foot, a Regiment
+<pb n="26" facs="tcp:52589:20"/>
+of Dragoons, and ſome few Troops of Horſe; he had brought with him from <hi>Dublin</hi> ſpare Arms for two Regi<g ref="char:EOLhyphen"/>ments of new levy'd Men that were every day expected to come to him; he had ſome Pieces of Cannon, and great ſtore of Bisket, Wheat, Flower, Malt, and o<g ref="char:EOLhyphen"/>ther Proviſions for his Army, in order to beſiege <hi>Inniskil<g ref="char:EOLhyphen"/>ling.</hi> When this News was brought him, that the <hi>Innis<g ref="char:EOLhyphen"/>killing</hi> Army was coming againſt him, and believing it true that they were ſo numerous, above fifteen thouſand (as was reported) he thought it not ſafe to ſtay at <hi>Bel<g ref="char:EOLhyphen"/>turbet,</hi> having no Place of any Strength there but the Church and Church-yard, which was a little fortified, but not large enough to contain the number of men he had with him: He therefore thought it beſt to provide for his own Safety, and to ſecure the Cannon, and what he could on a ſudden carry with him; but withal drew out a Detachment of Eighty Dragoons, and about two hundred Foot, and left them in the Church of <hi>Belturbet,</hi> under the Command of Lieut. Col. <hi>Edward Scot,</hi> and ſome other Officers, to ſee if they could make good that Place againſt the <hi>Inniskilling</hi> Men, until he came back to their Relief, and ſo march'd with the reſt of his Men to<g ref="char:EOLhyphen"/>wards <hi>Monaghan,</hi> that if he were purſued, he might come to <hi>Charlemont</hi> under the ſhelter of the Caſtle.</p>
+            <p>The next day hapned to be a moſt terrible day of Rain, inſomuch that our Men cou'd march no further that day; and this gave Col. <hi>Southerland</hi> time enough to go off with thoſe Men that he brought with him; but the next day again proving fair, Lieu-Col. <hi>Lloyd</hi> with his Men advanc'd towards <hi>Belturbet,</hi> and order'd Capt. <hi>Robert Vaughan</hi> and Capt. <hi>Hugh Galbraith,</hi> with their two Troops of Dragoons to be the Forlorn; but by that time they came within two miles of <hi>Belturbet,</hi> there met them about a Troop of Dragoons that fired at them, but our Dragoons alighting from their Horſes, and lining the Ditches on both ſides of
+<pb n="27" facs="tcp:52589:20"/>
+the Road, and the main Body of our Men coming in view, the <hi>Iriſh</hi> Dragoons retreated to <hi>Belturbet,</hi> and went all in<g ref="char:EOLhyphen"/>to the Church and Church-yard to the reſt of their Men, intending to make good that Place, firing very faſt at us, but with the ſame ſucceſs that is uſual with them; for they touch'd not a man of ours, but one, who recovered after<g ref="char:EOLhyphen"/>wards. Our men came very cloſe upon them, and ſoon got into all the Houſes near the Church, and ſome of them get<g ref="char:EOLhyphen"/>ting into the Archbiſhop of <hi>Dublin</hi>'s Houſe in <hi>Belturbet,</hi> (which by its height does overtop the Church-yard) from the upper windows they did ſo gall them with their Shot, that not a man of them could keep the Church yard; and within leſs than two hours after we came there (ſome of their men being killed) they held out a Flag for a Treaty; which being granted, they made Conditions; and it was Agreed, That all the Officers and Souldiers ſhould be our Priſoners: The Officers to have all their Cloaths and Mo<g ref="char:EOLhyphen"/>ney given them if it did not exceed t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounds the piece; the common Souldiers were to have their Lives ſav'd, but to be ſtripp'd of all their red Coats, which was according<g ref="char:EOLhyphen"/>ly performed. And thus we got about three hundred Pri<g ref="char:EOLhyphen"/>ſoners, whereof thirteen were Commiſſion Officers, toge<g ref="char:EOLhyphen"/>ther with Lieut. Col. <hi>Scot,</hi> their Commander in chief; but next day we let go near 200 of the meaneſt of the com<g ref="char:EOLhyphen"/>mon Souldiers, becauſe of the Charge we were at in main<g ref="char:EOLhyphen"/>taining them; and the reſt, with their Officers we brought with us to <hi>Inniskilling.</hi> We got about ſeven hundred Muſ<g ref="char:EOLhyphen"/>kets, a Barrel and a half of Powder (which was as much as we had in our Store-houſe before) eighty Dragoon-Horſes, with all the Accoutrements belonging to them, about twenty Horſe-loads of Bisket, above fifty Barrels of Flower, a hundred Barrels of Wheat, ſome Malt, and o<g ref="char:EOLhyphen"/>ther Proviſions, all which we ſent by Water to <hi>Inniskil<g ref="char:EOLhyphen"/>ling;</hi> we got but as many red Coats as ſerv'd two Com<g ref="char:EOLhyphen"/>panies, many of their men (being new Levies) wearing
+<pb n="28" facs="tcp:52589:21"/>
+Gray; and then we return'd to <hi>Inniskilling</hi> without the loſs of one man, loaden with the Spoils and Proviſions of our Enemies, which came very ſeaſonably to us; for by it we were plentifully provided with Bread until our Har<g ref="char:EOLhyphen"/>veſt ſupply'd us again; and our Companies, who were ill Armed before, were now well recruited, and ſome new Companies were immediatly rais'd, ſo that our Condition was very much better'd by it.</p>
+            <p>
+               <hi>July</hi> the 3d. we received a Letter from Mr. Archdeacon <hi>Brown,</hi> Chaplain in the <hi>Bonadventure</hi> Frigat, Capt. <hi>Tho<g ref="char:EOLhyphen"/>mas Hobſon</hi> Commander, giving us an Account, That Major General <hi>Kirk</hi> had ſent that Ship from the Lough of <hi>Derry</hi> round to <hi>Belliſhany,</hi> to know in what condition we were at <hi>Inniskilling,</hi> and if we ſtood in need of Ammuni<g ref="char:EOLhyphen"/>tion, or any other thing that he could ſpare, we ſhould be provided; and withal deſired that ſome of our Number ſhould be ſent to the Ship to give Capt. <hi>Hobſon</hi> a particular Relation of our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffairs. This was a moſt ſeaſonable and acceptable Meſſage to all the Gariſon of <hi>Inniskilling,</hi> eſpe<g ref="char:EOLhyphen"/>cially when we were in hopes of a ſupply of Powder; for although our Foot-Souldiers were indifferently provided in Arms by the ſupply that we took from Col. <hi>Southerland,</hi> yet (as I obſerv'd before) we had but little Powder, not much more than three Barrels in our Gariſon, whereof we got a little before a Barrel and a half in <hi>Belturbet.</hi>
+            </p>
+            <p>Orders were therefore that very night given by the Go<g ref="char:EOLhyphen"/>vernor that Lieut. Col. <hi>Lloyd,</hi> Capt. <hi>Francis Gore,</hi> Capt. <hi>Hugh Montgomery,</hi> Mr. <hi>Andrew Hamilton,</hi> and ſome others ſhould go the next day to <hi>Belliſhany,</hi> with ſome Troops and Companies to guard what Ammunition we ſhould get, and to acquaint Capt. <hi>Hobſon</hi> with the ſtate and condition of our Country; and accordingly, all things being in readi<g ref="char:EOLhyphen"/>neſs for our journey, we march'd the next day towards <hi>Belliſhany,</hi> being <hi>Thurſday</hi> the Fourth of <hi>July.</hi>
+            </p>
+            <p>The ſame day the Duke of <hi>Berwick</hi> with ſome Troops
+<pb n="29" facs="tcp:52589:21"/>
+of Horſe, about two Regiments of Foot, and two Regi<g ref="char:EOLhyphen"/>ments of Dragoons, came to the Dwelling-Houſe of Mr. <hi>Andrew Hamilton</hi> (he being but about two hours before gone towards <hi>Belliſhany</hi> with a Troop of Horſe) and ha<g ref="char:EOLhyphen"/>ving ſearched the Houſe for him, and not finding him, firſt ordered the Souldiers to plunder the Houſe, and then ſet fire to it, burning it to the ground, with all the other Houſes belonging to him upon any of his Lands in that Country, ſaying, <hi>if they had got him himſelf, they would have made him Meat for their Hawks;</hi> and that <hi>this was in re<g ref="char:EOLhyphen"/>venge of the Horſes taken a little before from</hi> Omagh, for which they blamed Mr. <hi>Hamilton.</hi> They did no preju<g ref="char:EOLhyphen"/>dice to any other mans Eſtate; but after they had burned and deſtroyed all that belonged to him and his Tenants, they drove away all their goods to <hi>Trellick,</hi> where the Duke encamped his men for ſome few days. This was a ſurprize upon us, moſt of our men being abroad at <hi>Belliſhany</hi> and other places: However, our Governor came that night to <hi>Mr. Hamilton</hi>'s Houſe, but they were gone before he came there, and he had not a Party ſtrong enough to beat up their Quarters, and ſo he returned to <hi>Inniskilling,</hi> order<g ref="char:EOLhyphen"/>ing ſtrong Guards to be kept on all the Roads from <hi>Trel<g ref="char:EOLhyphen"/>lick</hi> to <hi>Inniskilling.</hi>
+            </p>
+            <p>Within two or three days our Scouts brought word to the Governor, That the Duke of <hi>Berwick</hi> with all his Ar<g ref="char:EOLhyphen"/>my was on their march to <hi>Inniskilling,</hi> and in a few hours would be near the Town. Upon notice whereof, our Governor commands two Foot-Companies (with two Troops to ſecond them) to go and defend a ſtrait Paſs near the Mill of <hi>Inniskilling,</hi> by which the Dukes Army muſt paſs before they could come near the Town, and which might eaſily be defended by a few men: and in the mean time the Governor was getting the reſt of his men together to ſecond them. But the two Companies coming to the Mill, and ſeeing no Enemy near, after ſome ſtay
+<pb n="30" facs="tcp:52589:22"/>
+there, advanc'd near a mile farther than the Poſt which they were ordered to keep, and coming to a Hollow be<g ref="char:EOLhyphen"/>tween two Hills, were on a ſudden ſurprized with the whole Body of the Enemies Horſe and Dragoons coming upon them: The two Companies were ſoon put to the Rout, and the two Troops who were to ſecond them, ſeeing the number of the Enemy ſo great, wheel'd about without coming to their Relief; we had five and twenty of our men killed, whereof one was an Enſign, ſix and twenty taken Priſoners, and the reſt (though many of them wounded) eſcaped to <hi>Inniskilling;</hi> we loſt moſt of the Arms that belonged to both the Companies. Our Go<g ref="char:EOLhyphen"/>vernor (though too late) by the time that they were broken, was advanc'd on his way towards their Relief; on whoſe Approach the Duke retreated to <hi>Trellick,</hi> ta<g ref="char:EOLhyphen"/>king the Priſoners along with him, and from thence, the next day to the Camp near <hi>Derry:</hi> But our Governor ſent an Expreſs after him, deſiring that our men who were taken might be uſed as Priſoners of War; for if they receiv'd any damage, he would revenge it on the Priſoners then in his hands; and in a few days we had all our Priſoners return'd to us in exchange for others that we ſent them. We gave Lieut. Col. <hi>Scot</hi> for a Captain of ours that was taken; and theſe were the only Pri<g ref="char:EOLhyphen"/>ſoners of our men that they took and did not after<g ref="char:EOLhyphen"/>wards murder, which we attribute wholly to the meſ<g ref="char:EOLhyphen"/>ſage of our Governor ſent after them. This was the only Loſs that we ſuſtained ſince our firſt taking up Arms; which was their own Fault, by going beyond the Poſt that they were order'd to maintain; and beſides was the occaſion of burning of Capt. <hi>Corry</hi>'s Houſe and ſeveral o<g ref="char:EOLhyphen"/>ther Houſes near <hi>Inniskilling,</hi> which the Governor order'd to be burn'd as ſoon as he heard the two Companies were engag'd, apprehending the D. of <hi>Berwick</hi> would have made Capt. <hi>Corr'y</hi>s Houſe his Head Quarter, being of conſidera<g ref="char:EOLhyphen"/>ble
+<pb n="31" facs="tcp:52589:22"/>
+ſtrength and accommodation, and that his men would have quartered in the other Houſes.</p>
+            <p>But now to return to thoſe who were ſent to the <hi>Bonad<g ref="char:EOLhyphen"/>venture:</hi> On <hi>Friday</hi> the 5th. of <hi>July,</hi> the Officers went on Board the Ship where that worthy Gentleman Capt. <hi>Hobſon</hi> treated them with great Civility; and being fully inform'd of the State of our Affairs, he gave us good encouragement, aſſuring us, that very ſoon there wou'd be care taken to re<g ref="char:EOLhyphen"/>lieve us. He gave us thirty Barrels of Powder, which our Officers within two days ſent ſafe to <hi>Inniskilling;</hi> he gave us alſo a few Fire-locks, which we left in the Garriſon of <hi>Balli<g ref="char:EOLhyphen"/>ſhany;</hi> and at laſt it was concluded on by Capt. <hi>Hobſon</hi> and our Officers, that two of our number ſhou'd be ſent to Ma<g ref="char:EOLhyphen"/>jor Gen. <hi>Kirk</hi> for Commiſſions, ſome more Ammunition and Arms (for we had, and ſtill have a great many Men in our Country that never bore Arms) and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>aid of Men, eſpecial<g ref="char:EOLhyphen"/>ly experienc'd Officers, of which we had great want. And this being agreed on, Mr. <hi>John Rider,</hi> and Mr. <hi>Andrew Ha<g ref="char:EOLhyphen"/>milton</hi> were choſen to go to the <hi>Bonadventure</hi> to Major Gen. <hi>Kirk,</hi> who accordingly went on Board the 8th. day of <hi>July,</hi> and the 12th. came into the <hi>Lough</hi> of <hi>Derry,</hi> where Maj. Gen. <hi>Kirk</hi> lay with the Fleet. Mr. <hi>Rider</hi> and Mr. <hi>Hamilton</hi> being brought before the Major-General, he for about two days did inform himſelf by them of the condition <hi>Inniskilling</hi> was in, what ſtore of men belong'd to that Gariſon, and how arm'd.</p>
+            <p>We had then about ſeventeen Troops, thirty Foot-Com<g ref="char:EOLhyphen"/>panies, and ſome few Troops of Dragoons; our Foot were indifferently well arm'd, but our Horſe and Dragoons not ſo well. The Major General had few or no Arms fit for Horſe<g ref="char:EOLhyphen"/>men, but he gave us ſix hundred Fire-locks for Dragoons, a thouſand Muskets to raiſe more Foot with, twenty Barrels of Powder, beſides the thirty we receiv'd out of the <hi>Bonad<g ref="char:EOLhyphen"/>venture,</hi> with Bullets and Match proportionable; eight ſmall Cannon, and ſome few Hand-Granadoes. He gave us Com<g ref="char:EOLhyphen"/>miſſions for a Regiment of Horſe conſiſting of ſixteen Troops,
+<pb n="32" facs="tcp:52589:23"/>
+and fifty private men in each Troop, beſides Officers; for a Regiment of Dragoons conſiſting of twelve Troops, and the like number of private men in each Troop, and for three Regiments of Foot, and an independent Troop of Horſe to every Regiment, each Regiment of Foot to conſiſt of eigh<g ref="char:EOLhyphen"/>teen Companies, whereof two Companies to be Granadees, and ſixty private men in every Company. The Major-Ge<g ref="char:EOLhyphen"/>neral told us, he could ſpare none of his private men, but gave us ſome very good Officers, <hi>viz.</hi> Col. <hi>Will. Wolſely</hi> to be our Commander in chief, and Col. of Horſe; Capt. <hi>Will. Berry</hi> to be Lieutenant-Colonel to our Horſe; Capt. <hi>Charles Stone</hi> to be Major to our Horſe; Capt. <hi>James Winn</hi> a Gentle<g ref="char:EOLhyphen"/>man from Ireland, but then a Captain in Col. <hi>Stewarts</hi> Re<g ref="char:EOLhyphen"/>giment, to be Col. of our Dragoons; and for our three Re<g ref="char:EOLhyphen"/>giments of Foot, <hi>Guſtavus Hamilton</hi> Governour of <hi>Inniskil<g ref="char:EOLhyphen"/>ling,</hi> was made eldeſt Colonel; and Lieutenant-Col. <hi>Lloyd</hi> and Major <hi>Tiffan</hi> were the other two Colonels; he gave us Capt. <hi>Thomas Price</hi> (who has a Troop of Horſe with us) to be our Aid major-General, and one Capt. <hi>Johnſton,</hi> who has a Foot-Company, to be our Engineer.</p>
+            <p>In a word; when Major-Gen. <hi>Kirk</hi> knew what Condi<g ref="char:EOLhyphen"/>tion we were in (which he was a Stranger to before, until he ſaw one of our ſelves) he then granted us whatſoever Mr. <hi>Rider</hi> and Mr. <hi>Hamilton</hi> deſired of him, as far as he ſaw it for our Advantage; and no man cou'd have ſhown more Zeal than he did for their Majeſties Service, and the Preſer<g ref="char:EOLhyphen"/>vation of the Proteſtants.</p>
+            <p>And thus being by the Major-General furniſh'd according to our own deſire, with ſome choice Officers, with Commiſ<g ref="char:EOLhyphen"/>ſions, Arms and Ammunition, we took leave of him on <hi>Sunday</hi> the 20th. of <hi>July;</hi> we were a little before that come from <hi>Lough foyle</hi> (which is the <hi>Lough</hi> that comes from <hi>Der<g ref="char:EOLhyphen"/>ry</hi>) to <hi>Lough-ſwilly,</hi> where the Iſle of <hi>Inch</hi> is, and the ſame day the Major-General went from <hi>Swilly</hi> to <hi>Lough-foyle</hi> in the Swallow-Frigat, accompanied with the <hi>Mountjoy</hi> of
+<pb n="33" facs="tcp:52589:23"/>
+               <hi>Derry,</hi> and another leſſer Veſſel loaden with Proviſions; but the Wind being fair for them, and croſs to us, we were the ſame night driven back to the Iſle of <hi>Inch,</hi> where we ſtaid two days, but the Major-General went on his Courſe with the Store ſhips towards <hi>Derry.</hi>
+            </p>
+            <p>
+               <hi>Wedneſday</hi> the 24th. of <hi>July,</hi> we went to Sea again towards <hi>Belliſhany,</hi> but the Wind falling ſcant upon us, the Ketch that the Officers were in, did ply round, and we landed ſafe within three miles of <hi>Belliſhany</hi> on <hi>Friday</hi> the 26th. of <hi>July,</hi> but the other Veſſels wherein the Arms and Ammunition were, did not come to <hi>Belliſhany</hi> for three or four days af<g ref="char:EOLhyphen"/>ter. When we landed, we were met with ſeveral Troops of <hi>Inniskilling</hi>-men (who with much impatience expected our coming) welcoming us with firing ſeveral Vollies at our landing, and giving us all the expreſſions of Joy and Satiſ<g ref="char:EOLhyphen"/>faction that they were able, and ſo conveyed us the ſame day to <hi>Belliſhany.</hi>
+            </p>
+            <p>We were no ſooner come to <hi>Belliſhany,</hi> but notice was given us, that Lieutenant-General <hi>Macarty</hi> with a conſidera<g ref="char:EOLhyphen"/>ble Army, was come to <hi>Belturbet,</hi> in order to beſiege <hi>Innis<g ref="char:EOLhyphen"/>killing;</hi> upon this our Officers went the next day to <hi>Beleek,</hi> and on <hi>Sunday</hi> the 28th. day of <hi>July,</hi> they went by water from <hi>Beleek,</hi> and landed ſafe at <hi>Inniskilling,</hi> and ſo they did not ſtay for the Arms and Ammunition that Major-General <hi>Kirk</hi> ſent us. When the Officers landed at <hi>Inniskilling,</hi> all the Foot-Souldiers in the Town were drawn up from the Caſtle to the farr point of the Iſland next to <hi>Belliſha<g ref="char:EOLhyphen"/>ny,</hi> where they came aſhore and receiv'd them with a Guard; and when they were come to the Gate, gave them three full Vollies. All the Men and Women, and younger ſort of People that were in the Town, came in great Crowds towards the place where they were, inſomuch that they cou'd ſcarce get coming to the Caſtle; and nothing was heard but loud Acclamations welcoming thoſe Centle<g ref="char:EOLhyphen"/>men, and praiſing God, that their <hi>Engliſh</hi> Friends had not
+<pb n="34" facs="tcp:52589:24"/>
+quite forgot them, but that there was ſome ſign of Relief come at laſt.</p>
+            <p>That Night that they landed at <hi>Inniskilling,</hi> there came an Expreſs from <hi>Crom</hi> to the Governour, acquainting him, That Lieutenant-General <hi>Macarty</hi> had march'd his men from <hi>Belturbet,</hi> and was come before <hi>Crom,</hi> and was rai<g ref="char:EOLhyphen"/>ſing a Battery to play upon the Caſtle: our Governour was then ill of a Feaver, and Colonel <hi>Wolſeley</hi> by his Commiſſion being Commander in Chief, the Expreſs was brought to him; and the next day on <hi>Munday-morning</hi> the 29th. of <hi>July,</hi> by another Expreſs from <hi>Crom,</hi> we were inform'd, That Lieutenant-General <hi>Macarty</hi> had begun to batter the Caſtle with his Cannon, and made his Approa<g ref="char:EOLhyphen"/>ches very near it. The Beſieg'd with their ſmall Shot from the Caſtle, kill'd a great many of the Enemy, but yet being unacquainted with Cannon, they made earneſt re<g ref="char:EOLhyphen"/>queſt to our Governour <hi>Hamilton</hi> (for as yet all Ex<g ref="char:EOLhyphen"/>preſſes were ſent to him) for ſpeedy Relief. Colonel <hi>Wolſeley</hi> returns an Anſwer, That he wou'd make all the haſte he cou'd to get our Souldiers together; and upon the <hi>Wedneſday</hi> following he wou'd endeavour to relieve them. And the ſame <hi>Monday</hi> Colonel <hi>Wolſeley</hi> ſent Or<g ref="char:EOLhyphen"/>ders to <hi>Belliſhany,</hi> That all the Men there that belong'd to our Army ſhould march the next day to <hi>Inniskilling,</hi> lea<g ref="char:EOLhyphen"/>ving a convenient Garriſon at <hi>Belliſhany</hi> (for <hi>Sarsfield</hi> with his Army, lay at <hi>Boudrows,</hi> within four miles of it.) Accordingly ſome Troops of Horſe, and about four or five hundred Foot marched from <hi>Belliſhany</hi> to <hi>Inniskilling</hi> in their Arms, which is twenty long <hi>Engliſh</hi> Miles, by Land, and ſome of them lay two or three Miles farther than <hi>Belliſhany,</hi> and they ſhow'd no wearineſs at all when they came to <hi>Inniskilling,</hi> but were willing that very night to to go towards the Enemy, for to relieve their Friends at <hi>Crom.</hi>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:52589:24"/>A little after our Men came from <hi>Belliſhannon,</hi> about an hour and an half after Sun-ſet, we ſaw from <hi>Inniskilling</hi> a great Light in the Air above <hi>Newton-Butler</hi> (where Lieut. Gen. <hi>Mac-Carty</hi> with his Army lay) which conti<g ref="char:EOLhyphen"/>nued for ſome hours, and was ſeen by moſt of all the Peo<g ref="char:EOLhyphen"/>ple in and about <hi>Inniskilling;</hi> but we concluded, that either they had ſet the Town of <hi>Newton-Butler,</hi> and all the Country about, on Fire; or had raiſed ſome Fire in that Country, to give notice to Col. <hi>Sarsfield,</hi> that he was on his March towards us: but after the Fight was over, upon enquiry into the matter, we found there was no Fire that Night raiſed among them.</p>
+            <p>I am not very ſuperſtitious to lay great ſtreſs upon ſuch ſort of Signs in the Air, but ſomething remarkable there is in them. The like was ſeen at <hi>Glaſlogh</hi> before the Action they had there with the <hi>Iriſh</hi> of the Gariſon of <hi>Charle<g ref="char:EOLhyphen"/>mont,</hi> whom they defeated upon the 13th of <hi>March</hi> laſt, killing their Leader, and about 200 of his Men, with the loſs only of Capt. <hi>Ancketill</hi> on their ſide; but were or<g ref="char:EOLhyphen"/>dered the next day to deſert the place upon the coming down of the <hi>Iriſh</hi> Army, under the Command of L. Gen. <hi>Hamilton,</hi> which they did, and marched to <hi>Derry.</hi> About a Week before this, at Eleven at Night, the Night being very dark, there appeared in the Air ſeveral Pillars of Light pointed from towards <hi>Charlemont,</hi> which were ſo bright, that they might have read by them, and this laſted above two hours to the Obſervation of all the People there.</p>
+            <p>This brought into my Mind a Paſſage in the Examina<g ref="char:EOLhyphen"/>tion of Dr. <hi>Robert Maxwell,</hi> late Lord Biſhop of <hi>Kilmore,</hi> then Rector of <hi>Tynon</hi> in the County of <hi>Armagh,</hi> printed at the end of <hi>Burlacy</hi>'s Hiſtory of <hi>Ireland,</hi> in the laſt Page but one; I ſhall give you his own words, having told a little before of 56 Men, Women and Children who were taken out of his Houſe and drowned by the <hi>Iriſh</hi> at <hi>Cur-Bridg. About three or four Nights</hi> (ſays he) <hi>before the ſix and fifty Perſons were taken out of the Deponents Houſe
+<pb n="36" facs="tcp:52589:25"/>
+and drowned; in the dark of the Moon, about one of the Clock at Night, a Light was obſerv'd in manner of a long Pillar to ſhine for a long way through the Air, and refracted upon the North Gabel of the Houſe: It gave ſo great a Light about an hour together, that divers of the Watch read both Letters and Books of a very ſmall Character thereby, the Deponent preſaging thereby that bloody Maſſacre which enſued.</hi>
+            </p>
+            <p>I pretend to make no Explanation, or enter into the Reaſon or Dependance we can have upon theſe things, having reſolved only to tell you matters of Fact, and to leave every Man to his own Conjectures of them.</p>
+            <p>Information was brought us upon Monday at Night, that L. Gen. <hi>Mac-Carty</hi> intended the next day to ſend a part of his Army towards <hi>Liſnaskea,</hi> within ten Miles of us, and to place a Gariſon in the Caſtle; upon this L. Col. <hi>Berry</hi> the next Morning, being Tueſday the 30th of <hi>July,</hi> was ſent with ſeven or eight Troops of Horſe, about three Foot Companies, and two Troops of Dragoons, with Orders to take up the Caſtle of <hi>Liſnaskea</hi> before the Ene<g ref="char:EOLhyphen"/>my came to it, and to place a Gariſon in it if he found it tenable, but otherwiſe to burn it, if he thought it might be uſeful to the Enemy: And withal he had Directions given him to ſee if he could diſcover the Enemy, what their Strength was, and how poſted, with aſſurance that all the reſt of our Men would ſoon follow to relieve him, and to raiſe the Siege from <hi>Crom.</hi>
+            </p>
+            <p>L. Col. <hi>Berry,</hi> according to his Orders, marched to <hi>Liſnaskea,</hi> and when he came there, he found the Caſtle ſo much out of order, that he judg'd it a place of no Conſequence, and ſo left it without doing it any prejudice, keeping his Men all that Night in the Field. The next day being Wedneſday, the laſt day of <hi>July,</hi> early in the Morning, he marched his Men from <hi>Liſnaskea</hi> towards the Enemy (who lay about ſix Miles from him); he ſent his Scouts before, ordering them not to engage any Enemy they met with, but to retreat until they might diſcover
+<pb n="37" facs="tcp:52589:25"/>
+their Strength, and fight them on ſome advantagious Ground. He had not march'd above two Miles, when near a place, called <hi>Donagh,</hi> his Scouts did diſcover a conſiderable Body of Horſe, Dragoons and Foot marching towards them, who immediately advertiſe L. Col. <hi>Berry</hi> of their ap<g ref="char:EOLhyphen"/>proach; he therefore retreats with his Men to <hi>Liſnaskea</hi> again, the Enemy ſtill advancing towards him, and being a riſing Ground the way that he retreated, before he came to <hi>Liſnaskea</hi> he had a full view of the Enemy, and found them to be above double his Number, and therefore did not think fit to fight them in that open place, but to re<g ref="char:EOLhyphen"/>treat till he came to ſome more advantagious Ground. But as ſoon as he began to retreat, he ſent off an Expreſs to Col. <hi>Wolſeley</hi> in <hi>Inniskilling,</hi> acquainting him what Con<g ref="char:EOLhyphen"/>dition he was in, and deſiring him to make all the haſte he could to his Relief, which accordingly he did.</p>
+            <p>Now there are two ways leading from <hi>Liſnaskea</hi> to <hi>Inni<g ref="char:EOLhyphen"/>skilling,</hi> the one lately made through ſome Bogs and low fenny Grounds, nearer <hi>Loghearn</hi> than the old way; and this Road L. Col. <hi>Berry</hi> reſolv'd to take, as being more ſecure, and ſeveral Paſſes on it much eaſier to defend than the o<g ref="char:EOLhyphen"/>ther. He had not ſtay'd long at <hi>Liſnaskea</hi> but the Ene<g ref="char:EOLhyphen"/>my came near him, and then with his Men he retreats by this new Road (which turns off from the old at the end of the Town of <hi>Liſnaskea</hi>) and marched in good order, the Enemy ſtill advancing upon him till he came about a Mile diſtant from <hi>Liſnaskea,</hi> to a Bog with a narrow Cauſway through it, that two Horſemen could ſcarce ride in abreaſt upon, and at the end of this Cauſway (which is an eaſy Muſquet-ſhot over) <hi>Berry</hi> halted, reſolving to make good that Paſs againſt the Enemy until he had Relief from Col. <hi>Wolſeley;</hi> there was a Thicket of Under-Wood at the end of the Cauſway where <hi>Berry</hi> placed his Foot and Dragoons, ordering them to make good their Ground; the Horſe he drew a little farther off, promiſing that they
+<pb n="38" facs="tcp:52589:26"/>
+ſhould relieve the Foot and Dragoons, and gave the Word, <hi>Oxford.</hi>
+            </p>
+            <p>They made but a very ſhort ſtay there, when Col. <hi>Antho<g ref="char:EOLhyphen"/>ny Hamilton</hi> (who was Major-General to <hi>Mac-Carty</hi>) came in view with a conſiderable Body of Men, who alighting from his Horſe, ordered his Dragoons to do ſo too, and very bravely advanced near the end of the Cauſway, his Men firing briskly at ours, but with no great Succeſs; for it pleaſed God that after a great many Vollies of Shot which they made at us, not one of our Men was killed, and but about a dozen or fourteen of them wounded; our Men were better Marks-Men, they ſhot about a dozen of the Enemy dead at the end of the Cauſway, and wounded Col. <hi>Anthony Hamilton,</hi> their Leader, in the Leg; he being hurt, retreated a little, and mounted his Horſe, ordering another Officer to lead on the Men, who very ſoon was likewiſe killed, with ſome more of their Men: The Enemy ſeeing their Men thus drop by our Shot, and their General, Col. <hi>Hamilton,</hi> being gone a little ways back, and no chief Officer there to lead them on, began to retreat from the end of the Cauſway, which our Men ſeeing, gave a Huzza, and called out that the Rogues are run<g ref="char:EOLhyphen"/>ning, and immediately our Foot and Dragoons took the Bog on each hand, and our Horſe advanced on the Cauſway towards them, which the Enemy perceiving, began at firſt to retreat a little faſter from us, but their Retreat ſoon turned to a moſt diſorderly flight, without offering to face about, or fire any more at us: our Horſe ſoon over<g ref="char:EOLhyphen"/>took them, and fell in among their Foot, and ſuch Dra<g ref="char:EOLhyphen"/>goons as were on Foot, and made a very great Slaughter of them, having the Chaſe of them through the Town of <hi>Liſnaskea,</hi> and near a Mile farther; and the Execution had been greater, but notice was brought to <hi>Berry,</hi> that L. Gen. <hi>Mac-Carty,</hi> with the Body of his Army, was advancing towards him: upon this he ſounds a Retreat, and
+<pb n="39" facs="tcp:52589:26"/>
+brings back his Men to the place where the Fight firſt be<g ref="char:EOLhyphen"/>gan, having killed about 200, and taken about 30 Priſoners, which he ſent immediately to <hi>Inniskilling,</hi> with ſeveral Horſe-loads of Arms that he had taken from the Enemy, and this Action happened about 9 a Clock in the Forenoon.</p>
+            <p>About 11 of the Clock there came an Expreſs from Col. <hi>Wolſeley,</hi> to Lieut. Col. <hi>Berry,</hi> acquainting him, that he was come with his Men to his Relief; and deſiring him to march the Party under his Command, to the Moat above <hi>Liſnaſ<g ref="char:EOLhyphen"/>kea,</hi> where both their Parties might join together, and then conſider what they had to do. Now Col. <hi>Wolſeley</hi> had marched his Men the old Road from <hi>Inniskilling</hi> to <hi>Liſnaskea,</hi> leaving the new Road, where <hi>Berry</hi> and his Men were, about a mile on the right Hand. As ſoon as this Expreſs came, <hi>Berry</hi> marched, and both he and Col. <hi>Wolſeley,</hi> with their Men, met at the ſame time near the Moat, above the Town of <hi>Liſnaskea:</hi> And after ſome kind words had paſſed between both Parties at their meet<g ref="char:EOLhyphen"/>ing, Col. <hi>Wolſeley</hi> acquainted the Officers, that the Party under his Command had made ſo great haſte to relieve the other Party, that few or none of them had brought a Meal of Meat with them; and therefore they muſt ſpeedily conſider what they had to do, for either they muſt ad<g ref="char:EOLhyphen"/>vance towards the Enemy, and reſolve to fight them that very day, or return back again to <hi>Inniskilling</hi> for want of Proviſion. But after the thing was debated among the Officers, it was agreed on to conſult the Souldiers them<g ref="char:EOLhyphen"/>ſelves, and to know their mind in the Matter: The Men were called to their cloſe Order, and the Queſtion was aſ<g ref="char:EOLhyphen"/>ked, Whether they would advance and fight the Enemy that Day, or turn back to <hi>Inniskilling?</hi> They who had never before turned their Back to their Enemy, thought it diſhonourable then to begin, eſpecially after ſo remark<g ref="char:EOLhyphen"/>able a Victory obtained that Morning, and upon ſo une<g ref="char:EOLhyphen"/>qual Terms, which they took for a Preſage of what they
+<pb n="40" facs="tcp:52589:27"/>
+might expect in the Afternoon: All of them therefore, with one Acclamation, called out to Advance. Upon this Col. <hi>Wolſeley,</hi> and the other Colonels, drew up all the Men in <hi>Battalia,</hi> and gave them the Word, <hi>No Popery:</hi> which was very acceptable to all our Party: And then he drew out four Men out of every Troop, with an Officer to command them, for a Forlorn: Our whole Number, when all were joined together, did conſiſt of about 16 Troops of Horſe, 3 Troops of Dragoons, and 21 Companies of Foot, beſides ſome that were not under Command: So that in the whole Party, we reckoned our ſelves ſome more than 2000.</p>
+            <p>The Forlorn Col. <hi>Wolſeley</hi> ordered to march on about half a Mile before the Army; he ordered Col. <hi>Tiffan</hi> to lead on the firſt Battalion of Foot, conſiſting of about 5 or 6 Com<g ref="char:EOLhyphen"/>panies, ſeconded with ſome few Troops. C. <hi>Lloyd</hi> led on the next Battalion of Foot, conſiſting about the ſame Number, and the ſame way ſeconded; then followed the Dragoons: and Col. <hi>Wolſeley</hi> himſelf led on the main Body of Foot, fol<g ref="char:EOLhyphen"/>lowed with the reſt of our Horſe, under the Command of L. C. <hi>Berry,</hi> and Maj. <hi>Stone.</hi> And in this order we marched from <hi>Liſnaskea</hi> to <hi>Donagh,</hi> and ſo towards the Enemy, who we were informed had raiſed their Siege from <hi>Crum,</hi> and were come to <hi>Newton-Butler,</hi> a Village about two miles from <hi>Donagh.</hi>
+            </p>
+            <p>We had not marched above half a mile from <hi>Donagh,</hi> when our Forlorn came in view of the Forlorn of the Ene<g ref="char:EOLhyphen"/>my, who immediately retreated before our Men; we ad<g ref="char:EOLhyphen"/>vanced after them till we came within about half a mile from <hi>Newton-Butler,</hi> where there is a ſteep Hill that the Road leads through; and before you come to the Hill, there is a Bog, with a Cauſey through it, where only two Men at moſt can ride in a-Breaſt: the Enemy was drawn up in ve<g ref="char:EOLhyphen"/>ry good Order upon the Hill above the Bog; and no other way had we to come at them, but by the Bog and Cauſey through it.</p>
+            <p>
+               <pb n="41" facs="tcp:52589:27"/>When our Men came near the Place, our Officers con<g ref="char:EOLhyphen"/>ſidered the Ground, and how advantagiouſly the Enemy had poſted themſelves, and then Col. <hi>Wolſeley</hi> ordered Col. <hi>Tiffan,</hi> with his Battalion of Foot, to take the Bog on the right Hand of the Cauſway, and Col. <hi>Lloyd</hi> with his Battalion to take the Bog on the left, and Col. <hi>Win</hi> to divide his Dragoons, and the one half to ſecond Col. <hi>Tiffan</hi> on Foot, and the other to ſecond Col. <hi>Lloyd;</hi> and he ordered Lieut. Col. <hi>Berry</hi> to advance with the Horſe upon the Cauſway as the Foot on each hand advanced through the Bog; and he himſelf brought up the main Body in the Rear to ſend Recruits to thoſe that went be<g ref="char:EOLhyphen"/>fore, as he ſaw cauſe: and thus whilſt we advanced, in good order, towards the Enemy, they ordered the Town of <hi>Newton-Butler,</hi> and the Country-Houſes about to be all ſet on Fire; and before our Men came within Musket<g ref="char:EOLhyphen"/>ſhot of them, they began to Fire at us; but by that time that we came within Shot of them, and had fired two or three Vollies at them, our Men ſaw them begin to draw off and retreat towards <hi>Newton-Butler,</hi> which our Men miſapprehending, believed them running away, and our Of<g ref="char:EOLhyphen"/>ficers had much ado to keep them from purſuing with all the ſpeed they could: But Col. <hi>Wolſeley,</hi> and the Officers with him, from a Height oppoſite to the place where the Enemy was poſted, ſaw them go off in ſo good Order, that they believed it was either to draw our Men into an Ambuſh, or bring them to ſome place of better advan<g ref="char:EOLhyphen"/>tage for the Enemy; and therefore ſent orders to Col. <hi>Tiffan</hi> and <hi>Lloyd,</hi> that no Man ſhould go out of his Rank, but purſue them in good Order, until they were certain that they were flying: Our Men having received this Command, advanced after the Enemy, keeping their Ranks, and the Enemy ſtill faced about in their Rear, firing at us till we went through the Town of <hi>New<g ref="char:EOLhyphen"/>ton-Butler,</hi> and near a mile paſt it, and thus in very good Order they retreated, and we advanced, till they came to
+<pb n="42" facs="tcp:52589:28"/>
+a Bog, on the Road near half an Iriſh Mile over, with a narrow Cauſey through the middle of it, by which we muſt paſs to them: And as ſoon as ever the Front of our Men came to the Bog ſide, they ſaw the Enemy all drawn up on the Hill oppoſite to them, at the other ſide of the Bog, having their Canon placed at the end of the Cauſey: Col. <hi>Wolſeley</hi> ordered our Men to advance towards them as they had done before, the ground being much alike; and ſo Col. <hi>Tiffan</hi> with his Foot, took the Bog on the Right, and Col. <hi>Lloyd</hi> with his Foot took it on the left Hand, ſeconded by Col. <hi>Wynn</hi> and his Dragoons; and Lieut. Col. <hi>Berry</hi> and Major <hi>Stone</hi> advanced with our Horſe to<g ref="char:EOLhyphen"/>wards the Cauſey; but as ſoon as our Horſe came to the ſide of the Bog, and were beginning to come upon the Cauſey, the Enemy fired their Canon at them, and plied them ſo hard, that our Horſe could not advance one ſtep; but our Foot and Dragoons on both ſides advanced by De<g ref="char:EOLhyphen"/>grees upon them through the Bog, (the Enemy ſtill keep<g ref="char:EOLhyphen"/>ing their Ground) till at laſt they came up and ſeized their Canon, killed all their Cannoneers, and then advanced towards the Body of their Men that were drawn up a lit<g ref="char:EOLhyphen"/>little above them. As ſoon as our Horſe perceived that their Cannons were ſeized by our Foot, they advanced on the Cauſey; which the Enemies Horſe perceiving, they wheeled about with ſuch Dragoons as were on Horſe-back, and fled towards <hi>Wattle-Bridg,</hi> deſerting their Foot; their Foot ſtood their Ground till our Men came among them: But then perceiving their own Horſe and Dragoons fled, and ours coming up to them, they thought it no time to ſtay any longer, but turned their Backs; and inſtead of going to the left Hand, where they had an open Country, and might have made their eſcape, they (being Strangers in the Country) fled all to the right Hand, through a great Bog above a mile long, which leads towards <hi>Loghearn,</hi> moſt of them all throwing away their Arms into Turf-Pits.</p>
+            <p>
+               <pb n="43" facs="tcp:52589:28"/>Now the Country there is ſo full of Bogs, and ſtanding Pools and Loughs, that there is no paſſing for Horſe, but upon the Road, which for the moſt part is all paved. Our Horſe followed theirs in a String, over the narrow Ways from the Place where the Enemy had planted their Cannon, to <hi>Wattle-Bridg,</hi> which is a Bridg over a Branch of <hi>Loghearn,</hi> and left a good Guard of Horſe on the Bridg to ſecure that Paſs; and about an hundred Foot, under the Command of Captain <hi>George Cooper,</hi> were ordered to guard the Can<g ref="char:EOLhyphen"/>non that we had taken. Our Horſe kept all the Road be<g ref="char:EOLhyphen"/>tween the two Places, that not one of their Foot could paſs them: Our Foot in the mean time followed theirs through the Bog into a Wood near <hi>Loghearn,</hi> and gave Quarter that day to few or none that they met with, un<g ref="char:EOLhyphen"/>leſs Officers; which the Enemy perceiving, and having no Courage to fight for their Lives, they deſperately took the <hi>Lough</hi> in ſeveral places, to the number (as was computed) of about five hundred, and not one of them that took the Water, eſcaped drowning, but one Man, who got through after a great many Shot made after him. All that Night our Foot were beating the Buſhes for them, and all that their Officers could do could not bring them off from the Purſuit till next day about ten of the Clock, by which time ſcarce a Man of them that took towards the <hi>Lough</hi>-ſide, eſcaped, but was either killed, taken Priſoner, or drowned.</p>
+            <p>In this Action there was a remarkable Stroke given by Captain <hi>William Smith,</hi> who at one blow cut off the upper part of a Man's Head, juſt under the Hat; as much of the Skull as was within the Hat, with all the Brains, being ſtruck quite away from the other part of the Skull that ſtuck with the Body, and not ſo much as a bit of Skin to keep them together, but what was cut quite thorow.</p>
+            <p>Lieutenant-General <hi>Mackarty,</hi> when his Men were fled, he with about five or ſix Officers, went into a Wood near the Place where the Cannon were planted; and ſome ſmall
+<pb n="44" facs="tcp:52589:29"/>
+time after, came out of the Wood with thoſe that were with him, on Horſe-back, and fired his Piſtol at the Party that were guarding the Cannon. Our Men, when they came firſt from the Wood, thought them ſome of our own Party, (ſuppoſing all the Enemy fled) and never queſtio<g ref="char:EOLhyphen"/>ned them, till <hi>Mackarty</hi> fired his Piſtol; and then ſeven or eight of the Souldiers fired their Musqukets at him, ſhot his Horſe dead, and wounded him very ill in ſeveral places, and then to put him out of pain, one of the Souldiers club'd his Musket to have knock'd out his Brains, which one of thoſe that came with him from the Wood, eſpying, called to the Souldier to hold his Hand, for it was their General <hi>Mac-Carty;</hi> at the hearing of which Captain <hi>Cooper</hi> came up, and gave Lieutenant-General <hi>Mac-Carty,</hi> and thoſe that were with him, Quarter, and that Night carried him to <hi>Newton-Butler;</hi> and he, being ask'd how he came ſo raſhly to hazard his Life, when he might have gone off with his Horſe when they made their eſcape? profeſs'd that he found now the Kingdom like to be loſt, his Army being the beſt (for their number) that King <hi>James</hi> had, unleſs thoſe before <hi>Derry,</hi> who were then much broken, and that he came with a deſign to loſe his Life, and was ſorry that he miſs'd of his End, being unwilling to outlive that Day: And thus ended that Day's Service.</p>
+            <p>Whence we may reckon the Safety of the Proteſtants in <hi>Ireland,</hi> God having given us the greateſt and moſt remar<g ref="char:EOLhyphen"/>kable Victory over the <hi>Iriſh</hi> that was obtained in this or any former Age. They were reckoned ſix thouſand, and we not much above two; we killed that day in the Morning and the Afternoon about two thouſand, brought to <hi>Inniſ<g ref="char:EOLhyphen"/>killing</hi> above four hundred Priſoners with their General, and a great many other Officers: There were drowned in ſeveral places of <hi>Loghearn,</hi> (as was computed) about five hundred. The <hi>Iriſh</hi> themſelves confeſs there were three thouſand of their Men wanting, when thoſe that fled came to <hi>Dublin,</hi> but would not own that we killed ſo many,
+<pb n="45" facs="tcp:52589:29"/>
+but that for fear of Puniſhment and Shame for being bea<g ref="char:EOLhyphen"/>ten by ſo few, many of their Men had deſerted, and not returned to their Colours. We took ſeven Cannon, four<g ref="char:EOLhyphen"/>teen Barrels of Powder, a great quantity of Cannon and Musquet-Ball, all their Drums, and what Colours they had, which were not many, they having but about three pair of Colours to every Regiment.</p>
+            <p>Some few Days after this Fight, King <hi>James</hi> ſent Mr. <hi>Huben,</hi> one of his Surgeons, to <hi>Inniskilling,</hi> to attend Lieu<g ref="char:EOLhyphen"/>tenant General <hi>Mac-Carty,</hi> and likevviſe ſent him ſome Mo<g ref="char:EOLhyphen"/>ney to ſubſiſt him and the other Officers vvho vvere taken Priſoners, and ſent him ſome Hogſheads of Wine and other Proviſions that were fit for him, which he could not get at <hi>Inniskilling.</hi>
+            </p>
+            <p>We loſt (as was computed) about 20 Men, whereof not above a dozen vvere Men under Command; and no Man of any Note, but one Capt. <hi>Robert Corry,</hi> and Cor<g ref="char:EOLhyphen"/>net <hi>William Bell;</hi> the reſt vvere all private Men; and vve had about 40 or 50 Men ill vvounded.</p>
+            <p>The Action of this Day, made the Iriſh, through the whole Kingdom, take new Meaſures: It put them in a very great Conſternation, and had we followed our Blow, we might (in all humane reckoning,) have march'd to <hi>Dublin;</hi> which the Iriſh themſelves did apprehend, for they had but a few Men then in Arms there; but that we did not know, and it was too great an Attempt upon uncertain Grounds: But the chief Reaſon of it was this, That when Lieut. Gen. <hi>Mac-Carty</hi> was taken, there was a Letter found with him written by Col. <hi>Sarsfield</hi> to him, from his Camp at <hi>Bondrows;</hi> wherein he acquainted him, That the Duke of <hi>Berwick</hi> was at ſuch a Day to be near <hi>Inniskilling,</hi> with a Party of Horſe and Dragoons from <hi>Derry;</hi> deſiring Lieut. Gen. <hi>Mac-Carty,</hi> with the Army under his Command, to join the Duke of <hi>Berwick</hi> to beſiege <hi>Inniskilling,</hi> on that ſide of the Town that lies next to <hi>London-Derry;</hi> and that he, with the Army under his Command at
+<pb n="46" facs="tcp:52589:30"/>
+               <hi>Bondrows,</hi> would beſiege <hi>Inniskilling</hi> on that ſide of the Town that lies next to <hi>Connaught.</hi> And now the Fight that we had with Gen. <hi>Mac-Carty,</hi> happening but ſome few days before this was to be done, our Officers therefore immediately reſolved to march our Men back to <hi>Inniskil<g ref="char:EOLhyphen"/>ling,</hi> and to go and meet either <hi>Sarsfield,</hi> or the Duke of <hi>Ber<g ref="char:EOLhyphen"/>wick,</hi> whom they judged to be on their way thither.</p>
+            <p>And ſo, with our Priſoners, and conſiderable Plunder gotten in Lieut. Gen. <hi>Mac-Carty</hi>'s Camp, we marched from <hi>Newtown-Butler</hi> towards <hi>Inniskilling,</hi> on Thurſday the firſt of <hi>Auguſt,</hi> and there our Officers conclude next to go meet <hi>Sarsfield</hi> on his Road from <hi>Brondrows</hi> near <hi>Belli<g ref="char:EOLhyphen"/>ſhannon.</hi> Accordingly our Army marched towards <hi>Belli<g ref="char:EOLhyphen"/>ſhannon,</hi> on Friday the 2d of <hi>Auguſt:</hi> but before we went half way, there met us an Expreſs from Capt. <hi>Folliot</hi> of <hi>Belliſhannon,</hi> acquainting us that <hi>Sarsfield</hi> (having infor<g ref="char:EOLhyphen"/>mation of the Defeat that we had given <hi>Mac-Carty,</hi> and that we were returned back) had raiſed his Camp at <hi>Bondrows,</hi> and was retreated to <hi>Sligo:</hi> As alſo informing us, That the Arms and Ammunition ſent us by Major Gen. <hi>Kirk,</hi> was landed at <hi>Belliſhannon.</hi> Upon which Col. <hi>Wolſeley</hi> ſent Col. <hi>Tiffan,</hi> and his Lieut. Col. <hi>Gore,</hi> to <hi>Bel<g ref="char:EOLhyphen"/>liſhannon,</hi> with three Troops of Horſe, and ſome Com<g ref="char:EOLhyphen"/>panies of Foot, to ſecure the Arms and Ammunition, and to ſend them to <hi>Inniskilling;</hi> and withal, to ſtay at <hi>Belli<g ref="char:EOLhyphen"/>ſhannon</hi> to ſecure that Place, in caſe <hi>Sarsfield</hi> ſhould re<g ref="char:EOLhyphen"/>turn with his Army to beſiege it: And having ſo done, the reſt of our Army returned the next day to <hi>Inniskilling,</hi> reſolving to go and meet the Duke of <hi>Berwick;</hi> but on Sun<g ref="char:EOLhyphen"/>day morning, the 4th of <hi>Auguſt,</hi> we had intelligence that the Siege of <hi>Derry</hi> was raiſed, on Thurſday the 1ſt of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> in the Morning, a little before day, and that the Army which lay before it, was marched paſt <hi>Omagh.</hi> Upon this Lieut. <hi>William Charleton</hi> was ſent, with about a Troop of detached Horſe, to follow the Iriſh Army on their march towards <hi>Charlemont;</hi> who returned on Monday, and told
+<pb n="47" facs="tcp:52589:30"/>
+us, That he had ſeen the Rear of them paſs by <hi>Caſtle-Caw<g ref="char:EOLhyphen"/>ſield,</hi> within three ſhort miles of <hi>Dunganon,</hi> and ſo it was in vain to follow them.</p>
+            <p>And thus having defeated Lieut. Gen. <hi>Mac-Carty</hi>'s Party, and taken him Priſoner, <hi>Sarsfield</hi> fled; and the Siege of <hi>Dery</hi> being raiſed, our Fears were now at an end, and for ſome time we enjoyed quiet from all our Enemies, and the Name of <hi>Inniskilling</hi>-men became a Terror to the Iriſh. We had nothing left to imploy us after this, but to take care to regiment our Men, according to the Commiſſions which Maj. Gen. <hi>Kirk</hi> gave us.</p>
+            <p>Wedneſday, the 7th of <hi>Auguſt</hi> (being the ſame day ſevenight that Lieut. Gen. <hi>Mac-Carty</hi> was beaten) we kept as a Day of Thankſgiving for the great Victory God gave us over our Enemies, and the Peace which we then enjoyed from them on all Hands. And the ſame Day Mr. <hi>Andrew Hamilton</hi> was ſent by the Officers at <hi>Iniskilling</hi> to Maj. Gen. <hi>Kirk,</hi> to congratulate him for his happy Succeſs in the Re<g ref="char:EOLhyphen"/>lief of <hi>Derry.</hi> He received him very favourably, and with<g ref="char:EOLhyphen"/>in two days, ſent him back to <hi>Inniskilling,</hi> with Orders to Col. <hi>Wolſeley,</hi> to ſend him 500 Horſe, and 200 Dragoons, that he might march the Foot he had towards <hi>Colrain,</hi> and ſo towards D. <hi>Schonberg</hi> (whom we had advice was at Sea, or landed at <hi>Carrickfergus.</hi>) He likewiſe ordered the Dra<g ref="char:EOLhyphen"/>goons to bring with them 200 of the common Priſoners that we had taken of Lieut. Gen. <hi>Mac-Carty</hi>'s Party, to help to empty the Store-ſhips at <hi>Derry,</hi> and to cleanſe the Town, for they wanted Horſe at <hi>Derry;</hi> and their Men were ſo ſickly, that they were not able to do any thing towards the emptying of the Ships. According to theſe Orders, our Horſe and Dragoons, with the 200 Priſoners came to <hi>Derry,</hi> about the 15th of <hi>Auguſt,</hi> and within a day or two the Major General ordered the Horſe to march towards <hi>Col<g ref="char:EOLhyphen"/>rain,</hi> but to halt at <hi>Newtown,</hi> (a place half-way betwixt <hi>Derry</hi> and <hi>Colrain</hi>) until he came up with the Foot and Dragoons. But the News coming to <hi>Colrain,</hi> that the <hi>In<g ref="char:EOLhyphen"/>neskilling</hi>
+               <pb n="48" facs="tcp:52589:31"/>
+Horſe were joned with the Maj. General, and that they were all on their march towards that place, the Gariſon there deſerted the place, and fled towards <hi>Charle<g ref="char:EOLhyphen"/>mont:</hi> Notice whereof being ſent to the Maj. General from <hi>Colrain,</hi> the Meſſenger met the <hi>Inniskilling</hi> Horſe at <hi>New<g ref="char:EOLhyphen"/>town;</hi> who immediately marched forward, and came peace<g ref="char:EOLhyphen"/>ably into <hi>Colrain,</hi> being ready to receive the Maj. General into the Town the next day when he came to them, and ſo the <hi>Inniskilling</hi> Horſe marched before the Maj. General all the way, until his Party joined Duke <hi>Schonberg</hi> at <hi>Car<g ref="char:EOLhyphen"/>rickfergus.</hi>
+            </p>
+            <p>And here I would have ended, having been no longer an Eye-witneſs to any of their Actions at <hi>Inniskilling,</hi> but I cannot omit the manner of our taking <hi>Sligo,</hi> and driving Col. <hi>Sarsfield</hi> and his Party from thence; and altho I was not preſent at the Action, as I was at moſt of the reſt, yet I had the Account of it from a Perſon of good Credit, and ſo may with confidence relate it here; and thus it was.</p>
+            <p>Col. <hi>Tiffan</hi> having from <hi>Belliſhanon</hi> ſent us the Arms and Ammunition that Maj. Gen. <hi>Kirk</hi> ordered for us; with<g ref="char:EOLhyphen"/>in ſome few days after (ſeeing no ſign of Col. <hi>Sarsfield</hi>'s return to beſiege <hi>Belliſhanon</hi>) he ordered Lieut. Col. <hi>Gore,</hi> to take three Troops of Horſe, and an 150 Foot with him, to go as near <hi>Sligo</hi> as he could with ſafety, and to bring him intelligence in what condition <hi>Sarsfield</hi>'s Army was, what their Number, and how poſted; that if he might be able to attacque them with the Men under his Com<g ref="char:EOLhyphen"/>mand, (which in the ſeveral Gariſons about <hi>Belliſhanon,</hi> would have been about 1000 Men Foot and Horſe) he would do it: But if the Party he had were too weak for them, that he might ſend to <hi>Inniskilling</hi> for the reſt of our Men, for he did not think it fit to let an Enemy lie ſo near our Borders.</p>
+            <p>Lieut. Col. <hi>Gore,</hi> according to Col. <hi>Tiffan</hi>'s Orders, took three Troops of Horſe, and 150 Foot, and marched to<g ref="char:EOLhyphen"/>wards
+<pb n="49" facs="tcp:52589:31"/>
+               <hi>Sligo;</hi> but by that time that he came within ſix or ſeven miles of <hi>Sligo,</hi> ſome of his Party took an Iriſh-Man Priſoner, and brought him before Lieut. Col. <hi>Gore,</hi> who knew him to be a foſter-Brother of his own, (that is, a Son of his Nurſes, which is reckon'd a great Rela<g ref="char:EOLhyphen"/>tion amongſt the Iriſh); but being of Iriſh Parents, and bred a Papiſt, he had forſaken the Lieutenant Colo<g ref="char:EOLhyphen"/>nel ſince theſe Troubles began in our Country, and ad<g ref="char:EOLhyphen"/>hered to his own Country-men and Friends: The Lieut. Col. threatned to hang him for deſerting him: but the other finding his Life was at ſtake, begged earneſtly of L. C. <hi>Gore</hi> to ſpare him, aſſuring him, that if he would admit him into his Service again, he would be juſt to him for the time to come: <hi>Gore,</hi> after ſome time, pretended to be overcome by the fair Promiſes of the Fellow, and the Interceſſion of ſome Gentlemen that were with him, he conſented to ſpare his Life; and as a Tryal, imploy'd him in an Affair to <hi>Sarsfield</hi>'s Camp, which, he ſaid, if he per<g ref="char:EOLhyphen"/>formed truly, he would be kind to him whilſt he lived, and take him into his Service. The foſter-Brother faith<g ref="char:EOLhyphen"/>fully undertook to obſerve his Commands: and then Lieut. Colonel <hi>Gore</hi> deſired him to go to <hi>Sligo</hi> privately, to five or ſix Officers in Col. <hi>Sarsfield</hi>'s Army, (whom he named; and for whom he ſaid he had a particular Kindneſs) and to acquaint them, That all the Army belonging to <hi>Inniskil<g ref="char:EOLhyphen"/>ling,</hi> with the Men of <hi>Derry,</hi> and the Engliſh that came over under the Command of Maj. Gen. <hi>Kirk,</hi> were all joined together, and on their march towards <hi>Sligo;</hi> that they were above 20000 Men, and would be there the next day; and that he, with the Horſe and Foot under his Com<g ref="char:EOLhyphen"/>mand, were only the Forlorn, ſent before to clear the way for the Army; and therefore deſired that thoſe Friends of his ſhould provide for their own ſafety; but charged him not to tell any of the reſt of <hi>Sarsfield</hi>'s Army: And thus having inſtructed his foſter Brother, he ſent him away to<g ref="char:EOLhyphen"/>wards <hi>Sligo,</hi> whilſt he with his Party marched ſlowly on their way.</p>
+            <p>
+               <pb n="50" facs="tcp:52589:32"/>All the Country near <hi>Sligo</hi> was planted with Iriſh; and as ſoon as ever the foſter-Brother met any of them on the Road, he told, that the <hi>Inniskilling</hi>-Men, with the reſt before nam'd, were on their march to <hi>Sligo,</hi> giving an Ac<g ref="char:EOLhyphen"/>count of their Number, and the Time of their being there, according to what Lieut. Col. <hi>Gore</hi> had told him.</p>
+            <p>This Story going from one to another, ſet all the Iriſh near <hi>Sligo,</hi> a running with their Goods towards <hi>Roſcomon</hi> and <hi>Athloan,</hi> and ſome towards <hi>Gallway,</hi> not one daring to ſtay for fear of this great Army. The foſter-Brother goes on till he came to <hi>Sligo;</hi> and as ſoon as he came there, he told every one that he met, what Col. <hi>Gore</hi> or<g ref="char:EOLhyphen"/>dered him to tell only to ſome few Gentlemen that were his Friends, aſſuring them, that Lieut. Col. <hi>Gore</hi> would be with them in a few Hours, and that the whole Army was following faſt after him. This was ſoon noiſed over the whole Camp; which coming ſo unexpectedly upon them, put them all in a terrible Fear, and every one began to think of his own Safety, and packing up what he might moſt eaſily carry with him; and ſo all were leaving the Camp, and flying towards <hi>Athloan:</hi> Which coming to Col. <hi>Sarsfield</hi>'s Ears, he ſent to know the reaſon of the Tumult; the foſter-Brother who had brought the News to Town, was ſoon brought before him; who having told what Lieut. Col. <hi>Gore</hi> gave him in charge, and naming thoſe Gentlemen, (who happened accidentally to be then with Col. <hi>Sarsfield</hi>) and all of them knew that <hi>Gore</hi> had a kindneſs for them; this did fully ſatisfy them of the Truth of what he told Col. <hi>Sarsfield:</hi> Who immediatly cauſed beat his Drums, to bring his Men together, but in vain, for he could not get one of them to their Arms, all of them (much like <hi>Sarsfield</hi>'s carriage at <hi>Wincanton, Hiſt. Deſert.</hi> pag. 77.) making the greateſt haſte they could towards <hi>Roſcomon</hi> and <hi>Athloan,</hi> and ſo to <hi>Dublin,</hi> leaving <hi>Sarsfield,</hi> with his own Servants, to break the Carriages of his Cannon, and ſo he marched after his Men to <hi>Athloan.</hi>
+               <pb n="51" facs="tcp:52589:32"/>
+And thus Colonel <hi>Sarsfield</hi> and his whole Party left <hi>Sligo</hi> to us, without ſeeing an Enemy, and in ſome few Hours after Lieutenant Colonel <hi>Gore</hi> with his three Troops of Horſe and the hundred and fifty Foot, entred the Town, got fourteen Cannons (and ſome ſay three more after<g ref="char:EOLhyphen"/>wards) and a Mortar-Piece, with the whole Proviſions that belonged to their Army, except what ſmall matter (in the great Hurry they were in) they could carry with them.</p>
+            <p>This, may it pleaſe your Majeſties, is a faithful and true Account of the Succeſs of your Majeſties Arms, in the Hands of the Men of <hi>Iniskilling,</hi> till about the end of <hi>Auguſt</hi> laſt; for then it was that the Governour, Officers, Clergy and other Gen<g ref="char:EOLhyphen"/>tlemen, belonging to the Garriſon of <hi>Iniskilling,</hi> ſent me to your Majeſties with the Addreſs, which your Majeſties were gra<g ref="char:EOLhyphen"/>ciouſly pleaſed to receive from me at <hi>Hampton-Court</hi> the <hi>12th.</hi> Day of <hi>October laſt.</hi>
+            </p>
+            <p>And now, may it pleaſe your Majeſties to give me Leave, in the Names and by the Commiſſion of thoſe Gentlemen of <hi>Iniskil<g ref="char:EOLhyphen"/>ling,</hi> humbly to beg your Majeſties to accept of theſe their Ser<g ref="char:EOLhyphen"/>vices for your Honour, in the juſt Defence of their Religion and Laws, and to pardon the Imperfections in the Relation, by</p>
+            <closer>
+               <signed>Your Majeſties obedient and loyal Subject and Servant, <hi>Andrew Hamilton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="address">
+            <pb n="52" facs="tcp:52589:33"/>
+            <head>The Addreſs ſent from <hi>Iniskillin</hi> by Mr. <hi>And. Hamilton.</hi>
+            </head>
+            <head type="sub">To their Moſt Excellent Majeſties K. <hi>William</hi> and Q. <hi>Mary.</hi> The humble Addreſs of the Governour, Officers, Clergy, and other Inhabitants of Your Majeſties Town of <hi>Inis<g ref="char:EOLhyphen"/>killin,</hi> in Your Majeſties Kingdom of <hi>Ireland.</hi>
+            </head>
+            <p>WE your Majeſties moſt Faithful and moſt Loyal Sub<g ref="char:EOLhyphen"/>jects, do in the firſt place offer up unto Almighty God our moſt humble Thanks for the Deliverance vouch<g ref="char:EOLhyphen"/>ſafed us from our Mercileſs and Bloody Enemies; and next, unto Your Moſt Sacred Majeſties, for Your gracious Care taken of us, and in ſending Major General <hi>Kirk</hi> to the Relief of the poor handful of Your Majeſties Proteſtant Subjects left in this Place, and <hi>Derry,</hi> (whoſe miraculous holding out, under God, has been the Preſervation of the Proteſtant Intereſt in this Kingdom) and for thoſe wor<g ref="char:EOLhyphen"/>thy Officers ſent to this Place by him; among which the Honourable Colonel <hi>William Wolſley,</hi> our Commander in chief, under whoſe great and happy Conduct, God has been pleaſed to bleſs us with the moſt ſignal and remarkable Victory obtained over our Enemy, in this or the former Age. And as we were early in the demonſtration of our Loyalty, in proclaiming Your moſt Sacred Majeſties, on the eleventh Day of <hi>March</hi> laſt; ſo we ſhall perſevere in the ſame Dutiful Allegiance to our Lives End, ever implo<g ref="char:EOLhyphen"/>ring the Divine Majeſty to continue Your proſperous Reign long and long over us, moſt humbly begging Your Moſt Sacred Majeſties favourably to accept this Addreſs of our moſt humble and ſincere Obedience, which we ſhall ever be ready to make good both with our Hearts and Hands.</p>
+            <list>
+               <item>
+                  <hi>Guſtavus Hamilton,</hi> Govern.</item>
+               <item>
+                  <hi>Tho. Lloyd</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hart</hi>
+               </item>
+               <item>
+                  <hi>Edw. Dixy</hi>
+               </item>
+               <item>
+                  <pb n="53" facs="tcp:52589:33"/>
+                  <hi>Dan. Hodſon</hi>
+               </item>
+               <item>
+                  <hi>W. Smith</hi>
+               </item>
+               <item>
+                  <hi>Morgan Hart</hi>
+               </item>
+               <item>
+                  <hi>Allex. Acheſon</hi>
+               </item>
+               <item>
+                  <hi>Iſaac Collyer</hi>
+               </item>
+               <item>
+                  <hi>George Dury</hi>
+               </item>
+               <item>
+                  <hi>Tho. White</hi>
+               </item>
+               <item>
+                  <hi>William Wiſeheart</hi>
+               </item>
+               <item>
+                  <hi>Robert Moor</hi>
+               </item>
+               <item>
+                  <hi>Fran. Folliot</hi>
+               </item>
+               <item>
+                  <hi>John Dean</hi>
+               </item>
+               <item>
+                  <hi>Fran. Graham</hi>
+               </item>
+               <item>
+                  <hi>William Jivine</hi>
+               </item>
+               <item>
+                  <hi>Ja. Graham</hi>
+               </item>
+               <item>
+                  <hi>Tho. Roſcrow</hi>
+               </item>
+               <item>
+                  <hi>Andrew Montgomery</hi>
+               </item>
+               <item>
+                  <hi>Daniel French</hi>
+               </item>
+               <item>
+                  <hi>Henry Smith</hi>
+               </item>
+               <item>
+                  <hi>Richard Newſtead</hi>
+               </item>
+               <item>
+                  <hi>Robert Starling</hi>
+               </item>
+               <item>
+                  <hi>Henry Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Matthew Webſter</hi>
+               </item>
+               <item>
+                  <hi>William Slack</hi>
+               </item>
+               <item>
+                  <hi>Allan Cathcart</hi>
+               </item>
+               <item>
+                  <hi>An. Hamilton</hi>
+               </item>
+               <item>
+                  <hi>James Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Ja. Golden</hi>
+               </item>
+               <item>
+                  <hi>Arnold Cosbye</hi>
+               </item>
+               <item>
+                  <hi>Jo. Price</hi>
+               </item>
+               <item>
+                  <hi>Robert Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Francis Aldrich</hi>
+               </item>
+               <item>
+                  <hi>William Parſons</hi>
+               </item>
+               <item>
+                  <hi>Ambroſe Bedel</hi>
+               </item>
+               <item>
+                  <hi>H. Hughs</hi>
+               </item>
+               <item>
+                  <hi>Jaſon Hazard</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hughes</hi>
+               </item>
+               <item>
+                  <hi>Ichabod Skelſon</hi>
+               </item>
+               <item>
+                  <hi>Hon. Howel</hi>
+               </item>
+               <item>
+                  <hi>Robert Stevenſon</hi>
+               </item>
+               <item>
+                  <hi>Thomas Johnſton</hi>
+               </item>
+               <item>
+                  <hi>William Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Thomas Osborn</hi>
+               </item>
+               <item>
+                  <hi>Thomas Scot</hi>
+               </item>
+               <item>
+                  <hi>John Lowder</hi>
+               </item>
+               <item>
+                  <hi>William Kitle</hi>
+               </item>
+               <item>
+                  <hi>William Birney</hi>
+               </item>
+               <item>
+                  <hi>James King</hi>
+               </item>
+               <item>
+                  <hi>Jo. Rider</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Carleton</hi>
+               </item>
+               <item>
+                  <hi>Ja. Devitt</hi>
+               </item>
+               <item>
+                  <hi>Charles mac Fayden</hi>
+               </item>
+               <item>
+                  <hi>Lawrence Crow</hi>
+               </item>
+               <item>
+                  <hi>Edward Ellis</hi>
+               </item>
+               <item>
+                  <hi>William Blaſhford</hi>
+               </item>
+               <item>
+                  <hi>Robert Clark</hi>
+               </item>
+               <item>
+                  <hi>William Browning</hi>
+               </item>
+               <item>
+                  <hi>Ja. Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Ja. Browning</hi>
+               </item>
+               <item>
+                  <hi>Roger Wilton</hi>
+               </item>
+               <item>
+                  <hi>Ed. Wood</hi>
+               </item>
+               <item>
+                  <hi>F. King</hi>
+               </item>
+               <item>
+                  <hi>Robert Drury</hi>
+               </item>
+               <item>
+                  <hi>John Browning</hi>
+               </item>
+               <item>
+                  <hi>Ja. Campbell</hi>
+               </item>
+               <item>
+                  <hi>George Caſhell</hi>
+               </item>
+               <item>
+                  <hi>Povey Hookes</hi>
+               </item>
+               <item>
+                  <hi>John Armſtrong</hi>
+               </item>
+               <item>
+                  <hi>Toby M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lloy</hi>
+               </item>
+               <item>
+                  <hi>Robert Vaughan</hi>
+               </item>
+               <item>
+                  <hi>Robert Wear</hi>
+               </item>
+               <item>
+                  <hi>Malcome Cathcart</hi>
+               </item>
+               <item>
+                  <hi>Robert Robiſon</hi>
+               </item>
+               <item>
+                  <pb n="54" facs="tcp:52589:34"/>
+                  <hi>James Matthews</hi>
+               </item>
+               <item>
+                  <hi>Mart. Armſtrong</hi>
+               </item>
+               <item>
+                  <hi>Claud. Bealy</hi>
+               </item>
+               <item>
+                  <hi>Nivian Scot</hi>
+               </item>
+               <item>
+                  <hi>Tho. Armſtrong</hi>
+               </item>
+               <item>
+                  <hi>Jo. Friſell</hi>
+               </item>
+               <item>
+                  <hi>Dan. Armſtrong</hi>
+               </item>
+               <item>
+                  <hi>Matthew Young</hi>
+               </item>
+               <item>
+                  <hi>Marc. Buchanan</hi>
+               </item>
+               <item>
+                  <hi>George Wattſon</hi>
+               </item>
+               <item>
+                  <hi>Ro. mac Connell</hi>
+               </item>
+               <item>
+                  <hi>Ja. Robiſon</hi>
+               </item>
+               <item>
+                  <hi>Jo. Roberts</hi>
+               </item>
+               <item>
+                  <hi>Ro. Ward</hi>
+               </item>
+               <item>
+                  <hi>Bar. Gibſon.</hi>
+               </item>
+               <item>
+                  <hi>Jo. Crozier</hi>
+               </item>
+               <item>
+                  <hi>Hu. Blair</hi>
+               </item>
+               <item>
+                  <hi>Jo. King</hi>
+               </item>
+               <item>
+                  <hi>Thomas Young</hi>
+               </item>
+               <item>
+                  <hi>John Fulton</hi>
+               </item>
+               <item>
+                  <hi>George Hart</hi>
+               </item>
+               <item>
+                  <hi>James Matthews</hi>
+               </item>
+               <item>
+                  <hi>Ja. Lucy</hi>
+               </item>
+               <item>
+                  <hi>Francis Ellis</hi>
+               </item>
+               <item>
+                  <hi>Hercules Ellis</hi>
+               </item>
+               <item>
+                  <hi>John Corry</hi>
+               </item>
+               <item>
+                  <hi>Jo. Neper</hi>
+               </item>
+               <item>
+                  <hi>James Corry</hi>
+               </item>
+               <item>
+                  <hi>John Sherriffe</hi>
+               </item>
+               <item>
+                  <hi>George Corry</hi>
+               </item>
+               <item>
+                  <hi>Samuel Forth.</hi>
+               </item>
+               <item>
+                  <hi>James Cathcart</hi>
+               </item>
+               <item>
+                  <hi>Edward Cosbye</hi>
+               </item>
+               <item>
+                  <hi>William mac Cormick</hi>
+               </item>
+               <item>
+                  <hi>William Campbell</hi>
+               </item>
+               <item>
+                  <hi>Charles King</hi>
+               </item>
+               <item>
+                  <hi>Hugh Montgomery</hi>
+               </item>
+               <item>
+                  <hi>George Cooper</hi>
+               </item>
+               <item>
+                  <hi>Hu. Cathcart</hi>
+               </item>
+               <item>
+                  <hi>Hugh Corry</hi>
+               </item>
+               <item>
+                  <hi>Ed. Davenport</hi>
+               </item>
+               <item>
+                  <hi>Au. Ellis</hi>
+               </item>
+               <item>
+                  <hi>Jo. Woodward</hi>
+               </item>
+               <item>
+                  <hi>William Gore</hi>
+               </item>
+               <item>
+                  <hi>William Charleton</hi>
+               </item>
+               <item>
+                  <hi>George Ruſſell</hi>
+               </item>
+               <item>
+                  <hi>Aylet Sammes</hi>
+               </item>
+               <item>
+                  <hi>Ja. Michell</hi>
+               </item>
+               <item>
+                  <hi>Mat. Lindſay</hi>
+               </item>
+               <item>
+                  <hi>Thomas Davenport</hi>
+               </item>
+               <item>
+                  <hi>All. Fulton</hi>
+               </item>
+               <item>
+                  <hi>Paul Dean,</hi> Provoſt</item>
+               <item>
+                  <hi>Ja. Ewart</hi>
+               </item>
+               <item>
+                  <hi>Jo. Ballard</hi>
+               </item>
+               <item>
+                  <hi>Thomas Shore</hi>
+               </item>
+               <item>
+                  <hi>Richard Taylor</hi>
+               </item>
+               <item>
+                  <hi>Ed. Gubbin</hi>
+               </item>
+               <item>
+                  <hi>Thomas Leturvel</hi>
+               </item>
+               <item>
+                  <hi>George Hamerſley</hi>
+               </item>
+               <item>
+                  <hi>William Frith</hi>
+               </item>
+               <item>
+                  <hi>Jo. Hall</hi>
+               </item>
+               <item>
+                  <hi>Robert Johnſton</hi>
+               </item>
+               <item>
+                  <hi>Cor. Donellau</hi>
+               </item>
+               <item>
+                  <hi>Theo. Bury</hi>
+               </item>
+               <item>
+                  <hi>Hu. Galbraith</hi>
+               </item>
+               <item>
+                  <hi>William Roſs</hi>
+               </item>
+               <item>
+                  <hi>John Galbraith</hi>
+               </item>
+               <item>
+                  <hi>Matthew Young</hi>
+               </item>
+               <item>
+                  <hi>James Delap</hi>
+               </item>
+               <item>
+                  <hi>William Ball</hi>
+               </item>
+               <item>
+                  <hi>Jo. Smith.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="addenda">
+            <pb n="55" facs="tcp:52589:34"/>
+            <p>BEcauſe ſome who delight to reflect upon others, for reflecting ſake, even where no occaſion is given, have ventured to give it out, That neither Mr. <hi>Andrew Hamilton,</hi> who came lately over, nor Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Allen Cathcart,</hi> who were ſent over hither from <hi>Iniskillin,</hi> in <hi>January</hi> 1688. had any Commiſſion or Inſtructions, from the Governour and Gentlemen of <hi>Iniskillin,</hi> but took upon them ſuch Imployment meerly to recommend themſelves; whereby they have done what in them lay to obſtruct what might be offered by them in behalf of that People: I have therefore ſub<g ref="char:EOLhyphen"/>joyned to this Narrative, the Credentials which they had from <hi>Iniskillin,</hi> with which I would not otherwiſe have incumbred this Brief Relation, deſiring to have nothing in it, but what was neceſſary to the Subject in Hand.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <pb n="56" facs="tcp:52589:35"/>
+                        <head>The Governour of <hi>Iniskilling</hi> his Commiſſion, in behalf of himſelf and People, unto Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Allen Cathcart,</hi> to preſent their Addreſs to the then <hi>Prince of Orange;</hi> and to ſolicite for Arms and Ammunition.</head>
+                        <p>TO all Chriſtian People, to whom theſe Preſents ſhall come, We <hi>Guſtavus Hamilton,</hi> 
+                           <abbr>Eſq</abbr> elected Gover<g ref="char:EOLhyphen"/>vernour of <hi>Iniskillin,</hi> in the County of <hi>Farmanagh,</hi> and King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> together with the Inhabitants of the ſaid Town, and a ſelect number of Proteſtants united to them, ſend greeting in our Lord God Everlaſting; forasmuch as we have drawn and ſigned an Addreſs of Thanks, to be preſented to his Royal Highneſs the <hi>Prince of Orange,</hi> for his being the happy Inſtrument, under God, of our Delivery from Popery and Arbitrary Power. Now know ye, That we the ſaid Inha<g ref="char:EOLhyphen"/>bitants of <hi>Iniskillin,</hi> aforeſaid, for divers Cauſes and Con<g ref="char:EOLhyphen"/>ſiderations us thereunto moving (but more eſpecially that they have been eminent in concurring with us, and influencing the Country againſt the Deſigns the Lord <hi>Tyrconnel</hi> had againſt this Place) have nominated, conſtituted and appointed our well-beloved Friends Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Allen Cathcart,</hi> joyntly or ſeverally, to offer the ſaid Addreſs to his Highneſs, and to be preſented by the Honourable Earl of <hi>Clarenden,</hi> or any other Nobleman about Court: As alſo we impower the ſaid Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Allen
+<pb n="57" facs="tcp:52589:35"/>
+Cathcart,</hi> to ſolicite his Highneſs for Arms and Ammuni<g ref="char:EOLhyphen"/>tion for this Place: We alſo deſire, That Credit may be given to theſe our Deputies, both for our Truſt to them, as alſo in their charactering this Country.</p>
+                        <closer>
+                           <dateline>Given under the Hand and Seal of the Governour, <date>this ſixteenth Day of <hi>January,</hi> One thouſand ſix hundred eighty and eight,</date> by unanimous Conſent of the Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Town.</dateline>
+                           <signed>Guſtavus Hamilton.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <floatingText type="letter">
+               <body>
+                  <pb n="58" facs="tcp:52589:36"/>
+                  <head>The Copy of a Letter ſent to the Earl of <hi>Mount-alexander,</hi> Lord Viſcount <hi>Maſſareene,</hi> and unto divers others of the Nobility and Gentry in the North Eaſt part of <hi>Ulſter,</hi> from the Go<g ref="char:EOLhyphen"/>vernour of <hi>Iniskillin.</hi>
+                  </head>
+                  <opener>
+                     <dateline>Iniskillin, <date>January 23. 1688.</date>
+                     </dateline>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>WHilſt we and all the Proteſtants of this Kingdom groan'd under the fears of approaching Miſeries, and there was nothing but a univerſal dread of imminent Ruine ſuggeſted to our Thoughts, and that we ſee our Religion, our Laws, Lives, and our All at ſtake; ſo that nothing could be added to our danger, but our willingneſs to lay under whatſoever was impoſed upon us: The Law of Self-preſer<g ref="char:EOLhyphen"/>vation (one of the ancienteſt of the World) conſtrained us rather to chooſe a hazardous undertaking than, a voluntary Slavery; to which we were the more provoked by the in<g ref="char:EOLhyphen"/>ſulting menaces of thoſe, who, under the pretence of Quartering upon us, came to Pillage us, and deſigned to make this their entrance to the devaſtation of this part of the Province. So that not being willing to be enſlaved, and help to make others ſo too, this Paſs being the only Inlet from <hi>Conaught</hi> to <hi>Ul<g ref="char:EOLhyphen"/>ſter,</hi> from whence, as by an Inundation, it might have been overflow'd: We ſtand upon our Guard, and do reſolve, by the bleſſing of God, rather to meet our danger, than expect it. We doubt not but your Lordſhips Conſideration, with others of that part of the Country, has ſuggeſted thoughts of this nature to you alſo, which may induce you to a neceſſary defence of your ſelves and others; and therefore do intreat
+<pb n="59" facs="tcp:52589:36"/>
+your Lordſhips candid and ſincere Advice in the manage<g ref="char:EOLhyphen"/>ment of this great affair, too weighty for our weak Shoulders to bear alone, ſince we are ſure to be the firſt ſhall meet with the dangerous and highly incenſed revengeful hand of our Enemies. Our great hope is, that God will incline your Lord<g ref="char:EOLhyphen"/>ſhip to our aſſiſtance, and give us Courage and Succeſs in this ſo juſt an undertaking; we intreat Credit may be given to theſe our Meſſengers Mr. <hi>Hugh Hamilton</hi> and Mr. <hi>Alan Cathcart,</hi> who are well acquainted with the proceedings of thoſe who ſhall not fail to continue</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Lordſhip's Faithful, humble Servant,</hi> Guſtavus Hamilton.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="60" facs="tcp:52589:37"/>
+                  <head>Mr. <hi>Hamilton</hi>'s Letter of Attorny, impowering him to ſolicit at the Court of <hi>England,</hi> on behalf of the Gariſon of <hi>Iniskillin.</hi>
+                  </head>
+                  <p>KNow all Men by theſe preſents, That we the Governour, Colonels and other Officers belonging to the Gariſon of <hi>Iniskillin,</hi> do hereby Nominate, Conſtitute and Appoint our Right Truſty and well-beloved Friend, <hi>Andrew Hamilton,</hi> Clerk, as our true and lawful Attorney, to go to the Court of <hi>England,</hi> and in our name and ſtead to ſollicit our Affairs and all Concerns belonging to our Gariſon; hereby ratifying and Confirming what our ſaid Attorney Mr. <hi>Andrew Hamilton</hi> ſhall do, in as ample manner as if we were perſonally preſent.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given under our hands at</hi> Iniskillin <date>
+                           <hi>this</hi> 6th <hi>Day of</hi> Auguſt, <hi>1689.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Gustavus Hamilton, <hi>Governour. With a great many other Officers.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <pb n="61" facs="tcp:52589:37"/>
+                        <head>The Certificate of the Governour and Officers of <hi>Iniskillin,</hi> in behalf of Mr. <hi>Andrew Hamilton,</hi> when they ſent him their Agent to Their Maje<g ref="char:EOLhyphen"/>ſties, King <hi>William</hi> and Queen <hi>Mary.</hi>
+                        </head>
+                        <p>TO all Perſons to whom theſe Preſents ſhall come: We the Governour, Colonels and other Officers belonging to the Garriſon of <hi>Iniskillin</hi> and County of <hi>Farmanagh,</hi> do hereby Certifie and Declare, That the Bearer hereof, <hi>Andrew Ha<g ref="char:EOLhyphen"/>milton</hi> Clerk, Rector of <hi>Kilskiny,</hi> and one of the Prebends of the Dioceſs of <hi>Clogher,</hi> has truly and faithfully adhered and joyned with us ſince the ninth Day of <hi>December</hi> laſt paſt; at which time we did aſſociate together, in Defence of our ſelves and the Proteſtant Religion: And the ſaid <hi>Andrew,</hi> at his own proper Coſts and Charge, did raiſe a Troop of Horſe and a Foot-Company, and joyned them with us in the ſame Cauſe; for which his Enemies did him and his Tenants all the Miſchiefs they could: And upon the fourth of the laſt Month, ſent under the Command of the Duke of <hi>Berwick,</hi> an Army of four or five thouſand Men, and did burn the Dwelling-Houſe and all other the Houſes be<g ref="char:EOLhyphen"/>longing to the ſaid <hi>Andrew,</hi> in ten ſeveral Villages; and drove away from the ſaid <hi>Andrew</hi> and his Tenants above a thouſand Cows, two hundred Horſes and Mares, and about two thouſand Sheep, with all their Houſhold-Goods: And the ſaid <hi>Andrew,</hi> between his Temporal Eſtate and Church-Living, was worth above four hundred Pounds <hi>per Annum,</hi> the Prifit whereof he hath loſt, much of it lying in the Enemies Country. And we farther Certifie and Declare,
+<pb n="62" facs="tcp:52589:38"/>
+That the ſaid <hi>Andrew Hamilton</hi> hath been one of the Pre<g ref="char:EOLhyphen"/>bends of <hi>Clogher</hi> theſe fifteen Years paſt: and hath all-a<g ref="char:EOLhyphen"/>long, during the ſaid Time, continued a painful and conſtant Preacher, and of a good Fame among us;</p>
+                        <closer>
+                           <dateline>All which we Certifie under our Hands, at <hi>Iniskillin,</hi> 
+                              <date>this ſixth Day of <hi>Auguſt, 1689.</hi>
+                              </date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Guſtavus Hamilton,</hi> Governour</item>
+                                 <item>
+                                    <hi>Thomas Lloyd</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Abraham Creichton</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Smith</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Alexander Acheſon</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Morgan Hart</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Hart</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Daniel Hodſon</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Fulton</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Alexander Fulton</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Browning</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Vaughan</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Clark</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Oll. Jackſon</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Parſons</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hugh Montgomery.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="postscript">
+            <pb n="63" facs="tcp:52589:38"/>
+            <head>POSTSCRIPT.</head>
+            <p>SInce this was put into the Preſs, I have heard of a Pamphlet which does abuſe both the Men of <hi>Derry</hi> and <hi>Iniskillin,</hi> and am inform'd, That not only Papiſts, but others who pretend to be Proteſtants, have or late falſely, maliciouſly and induſtriouſly made it their buſi<g ref="char:EOLhyphen"/>neſs to leſſen the Actions of both theſe places, and have inſinuated that the People now in Arms in <hi>Ireland,</hi> who are called <hi>The Iniskillin men,</hi> were Men of no Fortune or Reputation, and that the Actions done by them are not ſo conſiderable as Fame makes them.</p>
+            <p>As for <hi>Derry,</hi> no True Proteſtant will deny, but the holding out of that place againſt the <hi>Iriſh</hi> Army, was of ſo great importance, that the ſafety of theſe Three King<g ref="char:EOLhyphen"/>doms did depend very much upon it. And it is well known, that during the whole time of that long Siege, the Men of <hi>Iniskillin</hi> kept at leaſt the one half of the <hi>Iriſh</hi> Army from coming before <hi>Derry,</hi> and kept them in ſo great fear of their coming to Relieve the Town, that they durſt never make a Regular Attack up<g ref="char:EOLhyphen"/>on the place, but were forced to divide their Men, keep<g ref="char:EOLhyphen"/>ing ſtrong Guards at <hi>Strabane, Lifford, Caſtlefim, Clawdy<g ref="char:EOLhyphen"/>bridge, Newtown Stewart, Caſtle Derrig,</hi> and <hi>Omagh,</hi> leſt <hi>Iniskillin men</hi> ſhould come upon them. By ſo doing, they made the Siege a great deal eaſier to the beſieged: and there<g ref="char:EOLhyphen"/>fore (as thoſe who were beſt acquainted with the Affairs of <hi>Derry</hi> during the Siege, do confeſs) <hi>Iniskillin</hi> does deſerve no ſmall part of the honour of that places Preſervation.</p>
+            <p>And now in regard of theſe Scandalous Reports which the Papiſts, and (perhaps) ſome rotten hearted Prote<g ref="char:EOLhyphen"/>ſtants, have raiſed upon theſe Men, I thought fit here to advertiſe the Reader, that as to their Actions I refer
+<pb n="64" facs="tcp:52589:39"/>
+him to the Relation before written, which every Man that knows them, will allow that I have been modeſt in giving account of them, though I have omitted but very little of moment that has been done by them from their firſt taking up Arms, until the time that I have ended this Relation.</p>
+            <p>And as for the Men themſelves, thoſe who firſt took up Arms and embodied in the County of <hi>Farmanagh,</hi> where <hi>Iniskillin</hi> is the County Town, were all Proteſtants, Houſe keepers, and moſt of them Men of ſubſtance, living as well as moſt Men in that Kingdom, of their Quality, but were never friends to <hi>Popery,</hi> which I ſuppoſe, is that which offends that Party. As for thoſe who came to us from <hi>Conaught</hi> and other places of the Kingdom, we are inform'd, that moſt of them lived very happily, till plunder'd and driven from their Habitations, they were forced to take ſhelter among us, ſcarce one of them bringing any manner of ſubſtance along with him; for whoſe maintenance they have ſeveral times gone into their Enemies bounds, and brought conſiderable Preys of Cattle from them, who are yet their Debtors for plun<g ref="char:EOLhyphen"/>der and burnings more thouſand pounds than 'twas once thought needed to have been ſpent for reducing the Kingdom, but never medled with any thing that be<g ref="char:EOLhyphen"/>long'd to their Proteſtant Friends till the later end of <hi>Auguſt;</hi> and what they have done ſince, I pretend to give here no Relation of.</p>
+            <p>Thoſe Men have kept free from the Enemy the whole County of <hi>Fermanagh,</hi> from the Caſtle of <hi>Crom,</hi> to <hi>Belliſhanny,</hi> and all that part of the Country of <hi>Dunegall</hi> that lies next the Sea from <hi>Belliſhanny</hi> to <hi>Killabeggs,</hi> which will be above fifty Miles in length, and in thoſe bounds have raiſed, for their Majeſties Service, Three Regi<g ref="char:EOLhyphen"/>ments of Foot, Two Regiments of Dragoons, and about Twenty Troops of Horſe; moſt of them officer'd by Men of Eſtates, and many of the private Men, having Free<g ref="char:EOLhyphen"/>holds
+<pb n="65" facs="tcp:52589:39"/>
+and Eſtates in that Kingdom. So that when ever <hi>Ireland</hi> is reduced, I do with confidence averr, That the very Officers (without accounting the Real and Perſonal Eſtates of thoſe who were content to bear Arms as Pri<g ref="char:EOLhyphen"/>vate Soldiers) if reſtored to their own, and no more, will be found worth above 10000 <hi>l. per Annum,</hi> who have adhered to <hi>Iniskillin,</hi> and are now called <hi>Iniskillin-men:</hi> for Sir <hi>John Hume</hi> loſt his eldeſt Son in the ſervice we were joyntly engag'd in, &amp; Sir G. <hi>Irvine</hi> dy'd in command in Duke <hi>Schomberg</hi>'s Camp at <hi>Dundalk.</hi> I could reckon up many par<g ref="char:EOLhyphen"/>ticulars, and ſignalize other Gentlemen of that Party, but that I believe I ſhall gratifie their modeſty more to have it thought that I did endeavour to give an impartial account of their joynt Actions, than to plead for particular Perſons. And if I were inclin'd to mark out thoſe who merited moſt, I ſhould be diſappointed, where each out-did the Example which others ſet before him. I have therefore purpoſely avoided ſaying any thing in Commendation of thoſe Gentle<g ref="char:EOLhyphen"/>men, otherwiſe than by barely relating the matter of fact which they did; and I hope thoſe from whom I am ſent will attribute it to no other cauſe, that I have not particularly named them, and the brave Actions that they have done: and ſo were not a neceſſitous Rabble, as thoſe Libellers would make them.</p>
+            <p>And beſides thoſe Regiments that are now raiſed, there are a great many Men in that Country who never bore Arms as yet, and will be able to raiſe ſome more Regiments of Foot, if there be Officers to their mind ap<g ref="char:EOLhyphen"/>pointed over them; and if we judge by the Actions of their Fellows, we may conclude, That they will go as far for their number, in the Service of Their Majeſties, as any Men Their Majeſties have; for I am ſure they are lovers of the Proteſtant Intereſt, and with a chearful Heart and willing Mind, will fight in that Quarrel, under their Majeſties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:52589:40"/>
+            <head>Books lately printed for <hi>Richard Chiſwel.</hi>
+            </head>
+            <p>Dr. <hi>Tenniſon</hi>'s Sermon againſt Self-love, before the Houſe of Commons, <hi>June</hi> 5. 1689.</p>
+            <p>Mr. <hi>Tully</hi>'s Sermon of Moderation, before the Lord-Mayor, <hi>May</hi> 12. 1689.</p>
+            <p>An Examination of the Scruples of thoſe who refuſe to take the Oath of Allegiance. By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>A Dialogue betwixt two Friends, a <hi>Jacobite</hi> and a <hi>Williamite;</hi> occaſioned by the late Revolution of Affairs, and the Oath of Allegiance.</p>
+            <p>The Caſe of Oaths ſtated. 4<hi rend="sup">0</hi>.</p>
+            <p>A Letter from a <hi>French</hi> Lawyer to an <hi>Engliſh</hi> Gentleman, upon the Preſent Revo<g ref="char:EOLhyphen"/>lotion. 4<hi rend="sup">0</hi>.</p>
+            <p>The Advantages of the preſent Settlement, and the great Danger of a Relapſe.</p>
+            <p>Reflections upon the Opinions of ſome Modern Divines, concerning the Nature of Government in general, and that of <hi>England</hi> in particular. With an Appendix re<g ref="char:EOLhyphen"/>lating to this Matter, containing, 1. The ſeventy fifth Canon of the <hi>Council</hi> of <hi>To<g ref="char:EOLhyphen"/>ledo.</hi> 2. The Original Articles in <hi>Latin,</hi> out of which the <hi>Magna Charta</hi> of King <hi>John</hi> was framed. 3. The true <hi>Magna Charta</hi> of King <hi>John</hi> in <hi>French:</hi> By which the <hi>Magna Charta</hi> in <hi>Matth. Paris</hi> is cleared and juſtified, and the Alterations in the Common <hi>Magna Charta</hi> diſcovered (of which ſee a more particular Account in the Advertiſement before the Appendix.) all three Engliſhed.</p>
+            <p>The Doctrine of Non-Reſiſtance, or Paſſive Obedience no way concerned in the Controverſies now depending between the <hi>Williamites</hi> and the <hi>Jacobites.</hi>
+            </p>
+            <p>A Diſcourſe concerning the Unreaſonableneſs of a new Separation on account of the Oaths. With an anſwer to <hi>The Hiſtory of paſſive Obedience.</hi>
+            </p>
+            <p>A Diſcourſe concerning the Eccleſiaſtical Commiſſion opened in the <hi>Jeruſalem</hi>-Chamber, <hi>Octob.</hi> 10. 1689.</p>
+            <p>Biſhop <hi>Burnet</hi>'s Sermon of Peace and Union.</p>
+            <p>The Intereſt of <hi>England</hi> in the preſervation of <hi>Ireland.</hi>
+            </p>
+            <p>The anſwer of a Proteſtant Gentleman in <hi>Ireland</hi> to a late Popiſh Letter of <hi>N. N.</hi> upon a Diſcourſe between them, concerning the preſent Poſture of that Country, and the Part fit for thoſe concerned there to act in it. 4<hi rend="sup">0</hi>.</p>
+            <p>An Apology for the Proteſtants of <hi>Ireland,</hi> in a brief Narrative of the late Revolu<g ref="char:EOLhyphen"/>tions in that Kingdom; and an Account of the preſent State thereof: By a Gentleman of Quality. 4<hi rend="sup">0</hi>.</p>
+            <p>A true Repreſentation to the King and People of <hi>England</hi> how matters were carried on all along in <hi>Ireland</hi> by the late K. <hi>James,</hi> in favour of the <hi>Iriſh</hi> Papiſts there, from his Acceſſion to the Crown to the 10th. of <hi>April</hi> 1689.</p>
+            <p>The mantle thrown off: or the Iriſh-man diſſected.</p>
+            <p>
+               <hi>Mephiboſheth</hi> and <hi>Ziba:</hi> Or an Appeal of the Proteſtants of <hi>Ireland</hi> to the King, con<g ref="char:EOLhyphen"/>cerning the Settlement of that Kingdom.</p>
+            <p>A full and impartial Account of all the ſecret Conſults, Negotiations, Stratagems and Intriegues of the Romiſh Party in <hi>Ireland</hi> from 1660, to 1689. for the ſettlement of Popery in that Kingdom.</p>
+            <pb facs="tcp:52589:40"/>
+         </div>
+      </back>
+   </text>
+</TEI>
